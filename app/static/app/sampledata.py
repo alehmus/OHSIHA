@@ -1,7 +1,7 @@
 import csv
 
 aikataulut = {
-    'Itsenaisyydenkatu 10': {},
+    'Itsenäisyydenkatu 10': {},
     'Uintikeskus': {'0400': '3A'},
     'Testi': {'xxxx': 'yyyy'}
 }
@@ -13,4 +13,4 @@ reader = csv.reader(file)
 for list in reader:
     for line in list:
         osat = line.split(";")
-        aikataulut['Itsenaisyydenkatu 10'].update({osat[0]: osat[1]})
+        aikataulut['Itsenäisyydenkatu 10'].update({osat[0]: osat[1]})

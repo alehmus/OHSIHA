@@ -27,17 +27,6 @@
                 {% endfor %}
             </div>
         </div>
-        <div class="content-section">
-
-            <h3>Julkaisut</h3>
-            {% for post in posts %}
-                <p class='text-muted'>
-                {{ post.name }}
-                <li>{{ post.text }}</li>
-                </p>
-            {% endfor %}
-            
-        </div>
     {% else %}
         <div class="content-section">
             <div class="body">

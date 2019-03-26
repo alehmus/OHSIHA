@@ -1,0 +1,3139 @@
+﻿Kalliolantie/8224
+Raskintie/8223
+Päkinmäki/8226
+Kalliolantie/8225
+Hepolahti/8220
+Raskintie/8222
+Hepolahti/8221
+Terälahti/5373
+Terveystalo/5372
+Terveystalo/5371
+Uusi-Koverontie/5370
+Etelä/5377
+Terämaa/5376
+Terämaa/5375
+Terälahti/5374
+Uusi-Koverontie/5369
+Tuhkuri/5367
+Tuhkuri/5368
+Lannemäki/1820
+Kastinsilta/534
+Lannemäki/1821
+Armonkallio/533
+Armonkallio/532
+Paloasema/537
+Ylöjärventie/1822
+Paloasema/536
+Ylöjärventie/1823
+Kastinsilta/535
+Huhdintie/8216
+Huhdintie/8217
+Lahdensivuntie/8218
+Lahdensivuntie/8219
+Lakoniitty/8215
+Keijärventie/6092
+Lakoniitty/8214
+Keijärventie/6093
+Ruutanan koulu/8213
+Mikkolantie/6094
+Ruutanan koulu/8212
+Mikkolantie/6095
+Korvenperä/8211
+Korvenperä/8210
+Teivon portti/6090
+Teivon portti/6091
+Teisko kko th/5360
+Maisansalo/5362
+Teisko kko th/5361
+Maisansalo th/5364
+Terätie/6096
+Maisansalo th/5363
+Terätie/6097
+Torpparinsuo/5366
+Terveyskeskus/6098
+Torpparinsuo/5365
+Terveyskeskus/6099
+Mäkelänmaa/5356
+Keskustori L/2
+Mäkelänmaa/5357
+Keskustori M/1
+Teiskola/5358
+Tammelantori/541
+Teiskola/5359
+Tammelankatu/540
+Parantolankatu/543
+Tammelantori/542
+Keskustori P/5
+Tapionkatu/545
+Keskustori A/3
+Hotelli Kauppi/547
+Tapionkatu/546
+Keskustori N/8
+Koiratori/549
+Lakolammentie/8209
+Keskustori O/7
+Ruutana/8207
+Lakolammentie/8208
+Leppätie/8205
+Ruutana/8206
+Toijakylä/5355
+Toijakylä/5354
+Poukka/5353
+Poukka/5352
+Taulaniemi th/5351
+Taulaniemi th/5350
+Jussila/8240
+Itsenäisyydenkatu 13/511
+Ripovuoret/5349
+Itsenäisyydenkatu 10/510
+Ripojärvi/5347
+Ripovuoret/5348
+Kuusjärvi th/5345
+Ripojärvi/5346
+Ratavartijantie/8238
+Ratavartijantie/8239
+Koskipuisto I/519
+Koskipuisto E/518
+Koskipuisto H/517
+Koskipuisto G/514
+Ruutanantie 210/8233
+Jussila th/8232
+Riitinmäentie/8231
+Riitinmäentie/8230
+Salotie/8237
+Salotie/8236
+Iskelä/8235
+Iskelä/8234
+Koivuniemi/5342
+Aunessilta/5341
+Kuusjärvi th/5344
+Koivuniemi/5343
+Aunessilta/5340
+Linja-autoasema/521
+Kämmenniemi/5338
+Kämmenniemi/5339
+Koskipuisto F/520
+Linja-autoasema/523
+Linja-autoasema/522
+Mikkolanniemi/5334
+Mikkolanniemi/5335
+Paavola th/5336
+Paavola th/5337
+Leppämäentie/8229
+Klassillinen koulu/529
+Klassillinen koulu/528
+Päkinmäki/8227
+Leppämäentie/8228
+Tampereen valtatie/524
+Rautatieasema F/526
+Mutikonlahti/5332
+Sorinaukio/570
+Mutikonlahti/5333
+Salama/5330
+Salama/5331
+Laasonportti/7590
+Iso-Kartano/5326
+Nuorajärvi/5325
+Nuorajärvi/5324
+Kolunkylä/5323
+Värmälä/5329
+Ahtiala th/7589
+Värmälä/5328
+Rautatieasema B/575
+Iso-Kartano/5327
+Vaihmalantie L/7587
+Vaihmalantie I/7586
+Kannisto/5320
+Kolunkylä/5321
+Hammaspolku L/7581
+Kolunkylä/5322
+Virta Kampus/7582
+Hammaspolku I/7580
+Eerola/5313
+Vääräjärvi/5312
+Urponmaa/5315
+Eerola/5314
+Nokiniitty/5317
+Kullervonkatu 8/586
+Urponmaa/5316
+Kullervonkatu 5/587
+Kannisto/5319
+Manttaalitalo I/7579
+Nokiniitty/5318
+Manttaalitalo L/7578
+Vähäranta/5310
+Sitarinkuja/7570
+Vääräjärvi/5311
+Aittapolku/7571
+Aittapolku/7572
+Haurala/7573
+Laureenintie/8200
+Laureenintie/8201
+Honkatie/8202
+Pihtisulunkatu/1808
+Honkatie/8203
+Sandvik/1809
+Leppätie/8204
+Pihtisulunkatu 1/1807
+Kolmihaarankatu 6/1806
+Haapaniemi/8900
+Kolmihaarankatu 7/1805
+Haapaniemi/8901
+Kolmihaarankatu 4/1804
+Mikkolantie/8902
+Kolmihaarankatu 5/1803
+Pohjolankatu /559
+Mikkolantie/8903
+Kalkun kehätie/1802
+Mustalahdentie/8904
+Kalkun kehätie/1801
+Mustalahdentie/8905
+Vähäranta/5309
+Pohjolankatu 26/558
+Pohjanperä/8906
+Eerolansuora th/5308
+Toimintakeskus/7568
+Pohjanperä/8907
+Toimintakeskus/7567
+Eerolansuora th/5306
+Rantalantie/8908
+Rantalantie/8909
+Eerolansuora th/5305
+Sitarinkuja/7569
+Kiviojantie/5304
+Kiviojantie/5303
+Viola-koti/552
+Koiratori/550
+Kuokatinmäki/7561
+Kuokatinmäki/7562
+Lempäälä/7560
+Sulkola/7565
+Sulkola/7566
+Kanava/7563
+Kanava/7564
+Papinsaarentie/8911
+Murtoniementie/8912
+Papinsaarentie/8910
+Alhontie/8915
+Kokojärvi/8916
+Sorinaukio/569
+Murtoniementie/8913
+Alhontie/8914
+Kokonniemi/8919
+Yliopisto A/564
+Lempäälä/7559
+Yliopisto B/565
+Lempäälän terveyskeskus/7558
+Kokojärvi/8917
+Lempäälän terveyskeskus/7557
+Yliopisto D/566
+Kokonniemi/8918
+Lempäälän työväentalo/7556
+Yliopistonkatu/560
+Tampere-talo/561
+Tampere-talo/562
+Yliopisto C/563
+Harjutie/6017
+Harjutie/6016
+Ojalantie/8929
+Tornitie/6019
+Ojalantie/8928
+Tornitie/6018
+Kaarina Maununtyttären tie1820/8927
+Kaarina Maununtyttären tie1820/8926
+Viiritie/8925
+Viiritie/8924
+Metsäpellontie/8923
+Metsäpellontie/8922
+Kuohenmaa/8921
+Kuohenmaa/8920
+Valkeakosken raja/8930
+Soppeenharjun koulu/6023
+Ylöjärvi Matkatie/6025
+Erkontie/6020
+Erkontie/6021
+Muotialantie 64/3200
+Muotialantie 67/3201
+Käyräkuja/6009
+Käyräkuja/6008
+Suvantotie /8939
+Kallenkuja/6007
+Kallenkuja/6006
+Kaivokuja/6005
+Laajakärki /8936
+Suokontie /8935
+Suvantotie /8938
+Laajakärki /8937
+Halkohaavantie /8932
+Valkeakosken raja/8931
+Suokontie /8934
+Halkohaavantie /8933
+Pakaraisentie /8941
+Pohjanpolku/6014
+Pohjanpolku/6015
+Särkitie/6012
+Särkitie/6013
+Tanhuatie/6010
+Tanhuatie/6011
+Karhe L/6801
+Sontu L/6804
+Leivuorentie /8945
+Litukka E/6806
+Litukka P/6805
+Jussilantie /8944
+Jussilantie /8943
+Särkäntie E/6808
+Särkäntie P/6807
+Pakaraisentie /8942
+Kangasalantie 250/8949
+Harhalantie P/6809
+Ruskolammintie /8948
+Ruskolammentie /8947
+Leivuorentie /8946
+Pohjankorpi /8952
+Kangasalantie 245/8950
+Palstatie/6000
+Palstatie/6001
+Hatolantie/6002
+Hatolantie/6003
+Kaivokuja/6004
+Sonnuntie/6811
+Harhalantie E/6810
+Monkanmäki P/6815
+Hiiroistentie E/6814
+Hiiroistentie P/6813
+Sonnuntie E /6812
+Sontu I/6819
+Painontie 54/8954
+Pohjankorpi /8953
+Kaanaantie E/6818
+Kaanaantie P/6817
+Roukon koulu/8956
+Painontie 42/8955
+Monkanmäki E/6816
+Juusontie 1/8958
+Roukon päiväkoti/8957
+Juusontie 4/8959
+Kenraalintori P/8961
+Kenraalintori E/8962
+Antinkulma /8963
+Tallikatu /8968
+Roopenkatu /8969
+Kirjaskatu /8966
+Koikeroisentie L/6827
+Tallikatu /8967
+Kyrönlahdentie 187/6828
+Antinkulma /8964
+Kyrönlahdentie 188/6829
+Kirjaskatu /8965
+Manni/6823
+Kyrönlahti L/6825
+Koikeroisentie I/6826
+Turkkila th L/6820
+Turkkila th I/6821
+Manni/6822
+Metsäkylä th/6064
+Hautalammi/6066
+Aluesairaala /8974
+Aluesairaala /8973
+Huurre/6062
+Roopenkatu /8970
+Rautatieasema C/504
+Rautatieasema A/505
+Koskipuisto D/502
+Rautatieasema D/508
+Valkeakosken kauppatori /8977
+Rautatieasema G/506
+Mustavuorentie P/6838
+Valkeakoski Kauppatori /8978
+Mustavuorentie E/6839
+Rautanevantie I/6836
+Rautanevantie L/6837
+Jaskarantie I/6834
+Jaskarantie L/6835
+Koskipuisto C/500
+Hyynilä I/6832
+Koskipuisto A/501
+Hyynilä L/6833
+Oinonkulma E/6830
+Oinonkulma P/6831
+Karhe P/6840
+Vaasantie 606/6058
+Kumitie/6056
+Ylöjärven lukio/6054
+Urheilutalo/6052
+Teivo/6051
+Teivo/6050
+Vääräkoivu /8981
+Vääräkoivu /8980
+Pohjolan th/6039
+Lahti P/6842
+Väinä L/6843
+Väinä I/6844
+Nisu E/6845
+Nisu P/6846
+Ylöjärven raja/6041
+Ylöjärven raja/6040
+Vuorenahteentie/6033
+Polvitie/6031
+Polvitie/6030
+Teivontie/6037
+Teivontie/6036
+Taksvärkintie/6035
+Taksvärkintie/6034
+Vatiala/4602
+Vatiala/4600
+Viitapohja th I/9700
+Symminki L/9711
+Symminki I/9710
+Rinnetie P/9703
+Hangastenloilo I/9704
+Viitapohja th L/9701
+Orivesi Lukio E/9702
+Aihtianjärvi L/9707
+Siitama th I/9708
+Hangastenloilo L/9705
+Aihtianjärvi I/9706
+Siitama th L/9709
+Haviala th I/9720
+Suinula th I/9722
+Haviala th L/9721
+Havisesvanjärvi I/9716
+Havisevanjärvi L/9717
+Haviseva th I/9718
+Haviseva th L /9719
+Haukijärvi th I/9712
+Haukijärvi th L/9713
+Säynäjärvi I/9714
+Säynäjärvi L/9715
+Suinula th L/9723
+Hankaloilontie E/9724
+Itkukallio/7534
+Ruskea-ahde/7535
+Ruskea-ahde/7536
+Lohikallio/7537
+Lohikallio/7538
+Hattulanmäki/7539
+Hattulanmäki/7540
+Moisionjoki/7542
+Moisionjoki/7541
+Moision koulu/7544
+Moision koulu/7543
+Hakkari/7547
+Hakkari/7548
+Kuokkala/7549
+Majauslahti/7551
+Kuokkala/7550
+Lempäälän työväentalo/7555
+Harakkala/7554
+Harakkala/7553
+Majauslahti/7552
+Ahonperä/7516
+Kukonkivi/7517
+Kukonkivi/7518
+Saviahde/7519
+Sääksjärven koulu/7512
+Kurjentaival/7513
+Kurjentaival/7514
+Ahonperä/7515
+Saviahde/7520
+Veräjätausta/7522
+Veräjätausta/7521
+Kuljun koulu/7529
+Kuljun kartano/7527
+Kelloportinkatu/596
+Kuljun kartano/7528
+Lapintie 7/595
+Kuljun asematie/7525
+Kuljun asematie/7526
+Kuljun työväentalo/7523
+Kuljun työväentalo/7524
+Itkukallio/7533
+Kukkolanmäki/7532
+Kukkolanmäki/7531
+Kuljun koulu/7530
+Lapintie 14/590
+Marjamäenkatu/7500
+Karhumäki/7509
+Rajasilta/7504
+Rajasilta/7503
+Marjamäenkatu/7501
+Vikkiniitty/7508
+Vikkiniitty/7507
+Lampipolku/7506
+Lampipolku/7505
+Karhumäki/7510
+Sääksjärven koulu/7511
+Eteläpohja/5379
+Etelä/5378
+Salmensilta/5383
+Salmensilta/5384
+Velaatta/5381
+Velaatta/5382
+Ilvesjoki/5387
+Ilvesjoki/5388
+Särkänperä/5385
+Särkänperä/5386
+Eteläpohja/5380
+Murole th/5389
+Kaanaa/5392
+Mäntylä/5393
+Mäntylä/5394
+Teiskon kirkko/5396
+Teiskon kirkko/5399
+Murole th/5390
+Kaanaa/5391
+Seppämestarintie/8121
+Kangasalan asema th/8122
+Kangasalan asema th/8125
+Luottamusmiehentie/8127
+Luottamusmiehentie/8126
+Uusi-Eurooppa/7491
+Metsäkulma/8117
+Seppämestarintie/8118
+Korvenkatu 32/1720
+Sorilan koulu/5221
+Vt9 ramppi/5220
+Otsolantie/8112
+Papinojantie/8111
+Papinojantie/8110
+Metsäkulma/8116
+Kortesuontie/8115
+Kortesuontie/8114
+Otsolantie/8113
+Tursola/8108
+Tursola/8109
+Hillerintie/8106
+Mäntyveräjä/8107
+Kohmankaari 2/1712
+Sorila/5217
+Sorila/5218
+Ikurintie 57/1710
+Heinontie/5213
+Rauhalantie/5214
+Sorilanjoenahde/5215
+Kantapartolantie/5216
+Kaupin sairaala/5252
+Ahkionkatu/5251
+Metsästäjänkatu/5250
+Lepokodintie/8103
+Lepokodintie/8102
+Hillerintie/8105
+Mäntyveräjä/8104
+Urheilutie/8101
+Koivulinna E/8100
+Heinämiehentie 3/1703
+Ikurintie 61/1704
+Kohmankaari 3/1701
+Heinämiehentie 8/1702
+Tyvikatu /1706
+Kelkkakatu/5248
+Atala/5249
+Ikurintie 85/1700
+Lintukalliontie/5211
+Lintukalliontie/5212
+Vastarannankatu/5210
+Olkahinen/5205
+Ojala/5204
+Kolmala/5203
+Kolmala/5202
+Vastarannankatu/5209
+Lennosto/5208
+Lennosto/5207
+Olkahinen/5206
+Kumpula/5200
+Aitolahdentie 145/5201
+Laureeninkallio/8190
+Vaskivesi/11001
+Vaskivesi/11000
+Ruutana 9-tie L/8181
+Ruutana 9-tie I/8180
+Mustavuori/1772
+Mustalampi/1770
+Mustavuori/1771
+Vällintie/8171
+Tarastenjärvi/8174
+Vällintie/8170
+Ruutanantie /8176
+Tarastenjärvi/8175
+Ruutanantie /8177
+Likolampi/1764
+Likolampi/1763
+Saarenkärki/1766
+Saarenkärki/1765
+Hutikonpolku/1760
+Villilä/1762
+Villilä/1761
+Salmenranta/1768
+Salmenranta/1767
+Mustalampi/1769
+Pikonlinna/8166
+Reumantie/8164
+Orivesi Lukio P/9699
+Vallituntie/8162
+Reumantie/8163
+Rikun päiväkoti/8160
+Vallituntie/8161
+Vanha kirkkotie/1759
+Tykkitienkatu/1758
+Tavela/8153
+Tavela/8154
+Riunlahti/8155
+Riunlahti/8156
+Riunoja/8157
+Riunoja/8158
+Rikun päiväkoti/8159
+Mäntyveräjä/8150
+Pikonlinna th/8151
+Pikonlinna th/8152
+Lentolantie 25/8139
+Sudenkorennontie/8148
+Sudenkorennontie/8149
+Vatialan koulu/8146
+Vatialan koulu/8147
+Nattari/8144
+Nattari/8145
+Iivarintie/8142
+Iivarintie/8143
+Mannakorpi/8140
+Mannakorpi/8141
+Juoksuhaudankatu/1733
+Juoksuhaudankatu/1732
+Leirikatu/1731
+Leirikatu/1730
+Kalkunvuorenkatu 4/1735
+Kalkunvuorenkatu 3/1734
+Pajatie/8129
+Pajatie/8128
+Lentolantie /8138
+Kalliontie/8131
+Kalliontie/8130
+Keskustori C/35
+Finlayson/38
+Keskustori B/36
+Hakametsä/4519
+Sarvijaakonkatu /4518
+Sammonkatu 47/4517
+Keskustori I/42
+Keskustori R/41
+Sammonkatu 56/4514
+Pyynikintori/29
+Metso/22
+Metso/24
+Aleksanterin kirkko/25
+Pyynikintori A/26
+Pyynikintori B/28
+Sammonkatu 43/4507
+Uintikeskus/4506
+Pyynikintori/31
+Kalevan kirkko/4501
+Sampola/4500
+Sammonkatu 13/4503
+Kaalamonaukio/4502
+Uintikeskus/4505
+Sammonkatu 26/4504
+Keskustori E/14
+Keskustori D/15
+Keskustori H/12
+Keskustori F/10
+Keskustori G/11
+Aleksanterin koulu /79
+Pappilankangas/9601
+Pappilankangas/9600
+Mäentakusenkatu/4563
+Kiveliönkatu/4555
+Ristinarkuntie/4556
+Orimuskatu/4553
+Kiveliönkatu/4554
+Aitolahdentie 27/4559
+Vehnämyllynkatu/4557
+Vehnämyllynkatu/4558
+Hämeenpuisto 31/80
+Hämeenpuisto 10/83
+Mariankatu/65
+Kauppakatu/69
+Tilkankatu/4550
+Orimuskatu/4552
+Raudikonkatu/4551
+Mikkola/4542
+Mikkola/4543
+Vestonkatu 24/4544
+Vestonkatu 11/4545
+Vestonkatu/4546
+Vestonkatu 35/4547
+Aleksis Kiven katu/70
+Satakunnankatu 23/72
+Kiikanmäki/9605
+Rovastintie 24/9602
+Rovastintie19/9603
+Vehoniemenkylä E/8098
+Mustanlahdenkatu/59
+Saarikylät th E/8099
+Mustanlahdenkatu/58
+Särkänniemi/57
+Mustalahti/56
+Näsinkallio/55
+Näsinkallio/54
+Naistenlinnanpolku I/8092
+Leinolankatu 95/4541
+Naistenlinnanpolku L/8093
+Leinolankatu 90/4540
+Vallilantie I/8090
+Vallilantie L/8091
+Varalankuja I/8096
+Varalankuja L/8097
+Varala I/8094
+Varala L/8095
+Linnainmaankatu/4537
+Ikurintie 25/1697
+Leinolankatu 72/4538
+Kotipellonkatu/4536
+Jussilankulma/4533
+Kauppamiehenkatu/1694
+Leinolankatu 18/4534
+Kauppamiehenkatu/1693
+Aitolahdentie 17/4531
+Ikurintie 47/1695
+Aitolahdentie 7/4532
+Mariankatu/64
+Sotkankatu/61
+Sotkankatu/60
+Leinolankatu 69/4539
+Satamakatu 16/48
+Pyynikin koulu/47
+Satamakatu/49
+Laukontori/44
+Satamakatu 8/46
+Kässälä/4530
+Irjalankatu/4524
+Takahuhdin koulu/4525
+Takahuhdin koulu/4526
+Ristinarkku/4527
+Hakametsä/4520
+Sammon valtatie/4521
+Sammon vt 10/4522
+Irjalankatu/4523
+Työväenteatteri /50
+Pikkupalatsi/52
+Hämeenpuisto 18/53
+Kässälä/4529
+Orelmankatu/4589
+Piettasenristi/4588
+Valkeakosken linja-autoasema/10000
+Ilmattarenkatu/4590
+Pikkupiiankatu/4579
+Piettasenkatu 28/4576
+Piettasenristi/4575
+Leinolan koulu/4578
+Piettasenkatu/4577
+Alasniitynkatu/4582
+Jankanraitti/4583
+Monttilanpolku/4584
+Lahtomäenkatu 7/4585
+HAMK (Valkeakoski)/10010
+HAMK (Valkeakoski)/10011
+Hussankatu/4580
+Monttilanpolku/4581
+Savilinna/98
+Savilinna/99
+Nalkalantori/92
+Janka/4569
+Leinolankatu 8/4568
+Jäähalli/4566
+Jäähalli/4565
+Kissanmaa/4564
+Leinolan koulu/4573
+Pikkupiiankatu/4574
+Hussankatu/4571
+Mäentakusenkatu/4572
+Finlayson/87
+Metsästäjänkatu/5259
+Pulkkakatu/5257
+Ahkionkatu/5262
+Nikinväylä/5260
+Nikinväylä 8/5261
+Risso/5266
+Atala/5264
+Rissonkatu/5270
+Rissonkatu/5271
+Petäjässuonkatu/5272
+Petäjässuonkatu/5273
+Mäyrä/8419
+Mäyrä/8418
+Ponsa/8415
+Ponsa/8414
+Pihtikorpi/8417
+Pihtikorpi/8416
+Kautio/8421
+Rauhala/8422
+Rauhala/8423
+Tollionmaa/8424
+Kautio/8420
+Rantalanlahti/8409
+Rantalanlahti/8408
+Neulaniemi/8407
+Neulaniemi/8406
+Ponsantie/8405
+Ponsantie/8404
+Peräkorventie/8403
+Kirkkosaarentie/8412
+Kirkkosaarentie/8413
+Rantahaka/8410
+Hyväsillantie/8437
+Hyväsillantie/8436
+Kapulantie/8439
+Kapulantie/8438
+Hermannintie/8440
+Hermannintie/8441
+Pysäkkitie/8442
+Pysäkkitie/8443
+Ruskatie/8444
+Ruskatie/8445
+Hiedantie/8446
+Naappila/8428
+Rajalahdentie/8427
+Rajalahdentie/8426
+Tollionmaa/8425
+Naappila/8429
+Orivedentie/8430
+Orivedentie/8431
+Väinöläntie/8434
+Väinöläntie/8435
+Pukkivuori/8432
+Pukkivuori/8433
+Koilliskeskus E/5128
+Aitolahdentie 43/5125
+Aitolahdentie 36/5126
+Atanväylä 19/5129
+Aitolahdentie 95/5131
+Mäennotkonkatu/5130
+Lusankatu 15/5135
+Itäinen aluetoimisto/5134
+Aitoniitynkatu/5132
+Kuntokatu/5114
+Irjalankatu/5116
+Teiskontie 61/5117
+Niihamankatu E/5118
+Niihamankatu P/5119
+Varismäki/8449
+Hiedantie/8447
+Varismäki/8448
+Kirjavaisenkatu /5120
+Kirjavaisenkatu 5/5121
+Koilliskeskus B/5124
+Koilliskeskus A/5123
+Irjalankatu 29/5109
+Kohmankatu/1600
+Virontörmänkatu 13/1601
+Irjalankatu 42/5108
+Irjalankatu 18/5106
+TAYS Arvo/5103
+Kolarinkatu/5104
+Ikurintie/1606
+Kylväjäntie/1604
+Ikurintie/1605
+Tesomankatu 24/1602
+Kylväjäntie/1603
+Oriveden hautausmaa/8483
+Urheilutie/8486
+Orivesi/8485
+Keskustie P/8488
+Urheilutie/8487
+Keskustie 50/8489
+Hippoksenkatu/5113
+Hippoksenkatu/5112
+Linnahaankatu/5111
+Linnahaankatu/5110
+Oriveden keskusta/8480
+Oriveden hautausmaa/8482
+Oriveden keskusta/8481
+Sairaalantie/8475
+Sairaalantie/8474
+Naarannotko/8477
+Keskustie/8476
+Kuusimäenkatu 33/5100
+TAYS Arvo/5102
+Irjalanaukio/5101
+Oriveden asema/8471
+Oriveden asema/8470
+Hikivuorenkatu 22/4042
+Ojavainionkatu 5/4041
+Ojavainionkatu 4/4040
+Hankkio/4046
+Annala/4045
+Hikivuorenkatu 14/4044
+Hikivuorenkatu /4043
+Heinämiehentie/1625
+Lintuviidankatu/1624
+Maamiehentie/1627
+Heinämiehentie/1626
+Ikurintie 88/1629
+Maamiehentie/1628
+Alasenkatu/4039
+Myllypuronkatu 7/1621
+Suoniemenkatu/1620
+Lintuviidankatu/1623
+Myllypuronkatu 14/1622
+Järvenpää/8490
+Järvenpää/8491
+Sorvajärvi th/6299
+Juvankatu 13/4031
+Sorvajärvi th/6298
+Juvankatu 18/4030
+Vääränahteentie/6297
+Yrjöläntie/4033
+Vääränahteentie/6296
+Yrjöläntie/4032
+Aarniontie/6295
+Vanha-Juva/4035
+Aarniontie/6294
+Yrjöläntie/4034
+Säynäväjärventie/6293
+Säynäväjärventie/6292
+Voionmaa opisto/6291
+Voionmaa opisto/6290
+Eräjärvi/8494
+Eräjärvi/8495
+Tarhamäenkatu/1616
+Tarhamäenkatu/1615
+Sitarinkatu/1614
+Sitarinkatu/1613
+Suoniemenkatu/1619
+Pyydyspohjankatu/1618
+Pyydyspohjankatu/1617
+Kirsikatu/4025
+Keskisenkatu/4027
+Keskisenkatu/4028
+Tesoman koulu/1612
+Tesoma C/1611
+Tesoma D/1610
+Ylisen kuntoutuskeskus/6284
+Juvankatu 4/4024
+Kaihari/6283
+Vilunen/4023
+Kallioniementie/6286
+Vilunen/4022
+Ylisen kuntoutuskeskus/6285
+Etu-Hankkionkatu/4021
+Etu-Hankkionkatu/4020
+Kallioniementie/6287
+Koluojantie/6280
+Kaihari/6282
+Koluojantie/6281
+Heinämiehentie 7/1647
+Tesoman valtatie 71/1646
+Epilänkatu 8/1649
+Epilänkatu 13/1648
+Turvesuonkatu 10/1643
+Turvesuonkatu 11/1642
+Tesoman uimahalli/1645
+Messukylän kirkko/4018
+Tesoman uimahalli/1644
+Messukylän kirkko/4019
+Kivikirkko/4016
+Kivikirkko/4017
+Aakkula/4014
+Aakkula/4015
+Vahantaluhdantie/6275
+Vuohensilta/4011
+Vahantaluhdantie/6274
+Vuohensilta/4010
+Vahanta/6273
+Messukylänkatu/4013
+Vahanta/6272
+Messukylänkatu/4012
+Oralantie/6279
+Oralantie/6278
+Peräsilta/6277
+Peräsilta/6276
+Salinsuontie/6271
+Salinsuontie/6270
+Ikuri/1635
+Tilhentie/4007
+&#196;estäjäntie/1633
+Tilhentie/4008
+Puutoimi/6269
+Ikurinaukio/1631
+Takojankatu/4003
+Takojankatu/4004
+Kalevantie/4005
+Kuntokatu/4951
+Kalevantie/4006
+Veittijärven koulu/6260
+Antaverkka th/6266
+Antaverkka th/6267
+Puutoimi/6268
+Tarkonpuisto/4001
+Veittijärvi/6262
+Kalevankangas/4002
+Veittijärvi/6263
+Laiduntie/6264
+Tarkonpuisto/4000
+Vuorentaustantie 10/1660
+Vuorentaustantie 7/1661
+Rauhantie/1662
+Rauhantie/1663
+Lamminpään koulu/1664
+Lamminpään koulu/1665
+Runkokatu/1666
+Runkokatu/1667
+Haukiluoma/1668
+Sorvajärvi/6256
+Sorvajärvi/6257
+Petterintie/6254
+Petterintie/6255
+Sammatintie/6250
+Sammatintie/6251
+Mustikkaniemi/1651
+Epilänkatu 65/1652
+Mustikkaniemi/1650
+Pikkulampi/1655
+Särkijärvenpolku/6249
+Ylöjärventie 22/1656
+Särkijärvenpolku/6248
+Epilänkatu/1653
+Etuanttila/6247
+Suonsivunkatu/1654
+Ylöjärventie 45/1659
+Ylöjärventie 23/1657
+Ylöjärventie 36/1658
+Lamminpää/1690
+Lakialan Portti/6243
+Etuanttila/6246
+Tesoman palloiluhalli/1686
+Tesoman palloiluhalli/1687
+Vuorentaustantie 15/1685
+Romsinlahti/4903
+Takamaan koulu/6230
+Takamaan koulu/6231
+Vuorentaustantie 28/1680
+Kivijärventie /6234
+Kivijärventie /6235
+Hakalantie/6232
+Hakalantie/6233
+Raiskio/6228
+Ristaniitynkatu/1677
+Röhkö/6226
+Pohjanmaantie/1675
+Röhkö/6225
+Lamminpään hautausmaa/1673
+Virontörmänkatu 8/1674
+Peurankatu/1671
+Raiskio/6229
+Lamminpään hautausmaa/1672
+Siironmaantie/6203
+Takamaantie/6204
+Vanha kirkkotie 24/1576
+Takamaantie/6205
+Kokkolankatu 2/1579
+Lukukorventie th/6206
+Lukukorventie th/6207
+Vanha kirkkotie 21/1573
+Viisajärvi/6208
+Korvenkatu 57/1572
+Viisajärvi/6209
+Vanha Kirkkotie 10/1574
+Ristaniitynkatu/1580
+Ristaniitynkatu 13/1582
+Petsankatu/1589
+Kalkun viertotie 20/1588
+Kalkun viertotie/1587
+Kalkun viertotie 17/1586
+Pitkäniemenkatu/1585
+Pitkäniemenkatu/1584
+Ristaniitynkatu 10/1583
+Pajulanraitti/6220
+Kalkku/1592
+Tohlopinranta/1593
+Vastamäentie länt. th/6223
+Vastamäentie länt. th/6222
+Pajulanraitti/6221
+Tohlopinjärvi/1595
+Tohlopinranta 23/1594
+Mediapolis/1597
+Tohlopinjärvi/1596
+Kohmankatu/1599
+Mediapolis/1598
+Juvankatu 39/4097
+Hikivuori/4096
+Maustekatu/4099
+Vaunukatu/4091
+Siironmaantie/6202
+Kaukajärvi/4078
+Keskisenkatu 7/4079
+Haiharankatu/4076
+Haiharankatu/4077
+Keskisenkatu 22/4074
+Keskisenkatu 6/4072
+Keskisenkatu 13/4073
+Kyläojankatu/4080
+Kyläojankatu/4081
+Pitkäniitynkatu/4082
+Pitkäniitty/4087
+Vaunukatu/4088
+Juvankatu/4089
+Solkiniitynkatu/4083
+Levonmäki/4084
+Levonmäki/4085
+Solkiniitynkatu/4086
+Yrittäjänkatu/4049
+Viinikan liittymä/3500
+Haiharansuu/4048
+Hankkio/4047
+Iidesranta/3503
+Kuikankatu/3504
+Iidesranta/3502
+Tiirantaival/3507
+Tiirantaival/3508
+Kuikankatu/3505
+Järvensivun koulu/3509
+Kristilla/4052
+Kristilla/4053
+Juvelankatu 19/4050
+Seimenkatu/4051
+Inolankatu/4056
+Vehmaistenkatu 4/4054
+Vehmaistenkatu/4055
+Kangasalantie 120/4058
+Vehmainen/4060
+Juvelankatu/4065
+Orimuskatu 81/5141
+Tuluskatu/5145
+Ensihoitokeskus/5146
+Aitoniitynkatu/5143
+Ali-Huikkaantie 21/5139
+Kuusenmäenrinne/5137
+Orimuskatu 80/5136
+Ensihoitokeskus/5147
+Sammonaukio /5149
+Paloniityntie/5180
+Peräkorventie/8402
+Karppilanrantatie/8401
+Karppilanrantatie/8400
+Koljontie 30/5196
+Kaupinkatu/5198
+Rosendahl/2007
+Trikookuja/2008
+Pyynikintie/2005
+Rosendahl/2006
+Piispantalo/2003
+Pyynikintie/2004
+Mäntypuisto/2001
+Piispantalo/2002
+Trikookuja/2009
+Siitamantie/8320
+Vanhatie/8322
+Vanhatie/8323
+Rukoushuone/8324
+Rukoushuone/8325
+Varala/2011
+Kyrönpalontie /7210
+Jara/7211
+Jara/7212
+Kuokkalan koulu/7213
+Kuokkalan koulu/7214
+Hirvikatu/2016
+Tahmela/2017
+Mäntypuisto/2018
+Mäntypuisto/2019
+Varala/2012
+Tahmelankatu/2013
+Tahmelankatu 6/2014
+Hirvikatu/2015
+Muistomerkintie/8307
+Muistomerkintie/8306
+Mustoontie/8305
+Mustoontie/8304
+Suinula/8309
+Korvenperäntie 40/8313
+Suinula as th/8311
+Palomäentie 14/2020
+Palomäentie 32/2022
+Palomäentie 15/2021
+Länsi-Hervanta/3598
+Portaankorva/7227
+Tyttöjen kartano/7226
+Säijän koulu/7229
+Portaankorva/7228
+Satusedäntie/8300
+Satusedäntie/8301
+Ranssila/8302
+Ranssila/8303
+Järventausta/7233
+Järventausta/7234
+Myllymäki/7235
+Myllymäki/7236
+Säijän koulu/7230
+Kuusiniemi/7231
+Kuusiniemi/7232
+Nurmi/7219
+Mikkola/7218
+Mikkola/7217
+Ollila/7216
+Ollila/7215
+Kerttula/7224
+Tyttöjen kartano/7225
+Kärppälä/7222
+Kerttula/7223
+Nurmi/7220
+Kärppälä/7221
+Mäntypuisto/2000
+Kaipaanniemi/8359
+Puntalanniemi/7248
+Säijän käänne /7249
+Mäyriä /7252
+Puntalanniemi/7251
+Antila/7254
+Mikkolan savutorppa /7253
+Mäyriä/7255
+Suomatka/8361
+Antila /7257
+Suomatka/8360
+Hokkanen/8363
+Hokkanen/8362
+Kurkiniemi/8365
+Kurkiniemi/8364
+Keso/8367
+Keso/8366
+Mikkolan savutorppa /7250
+Talvilahti/8369
+Talvilahti/8368
+Lehtola/7239
+Riukulantie/7237
+Riukulantie /7238
+Säijä/7243
+Kauriinmäki/7242
+Ketola/7241
+Lehtola /7240
+Suumetsä/7247
+Myllytie/8350
+Säijän käänne /7246
+Kauriinmäki/7245
+Suumetsä/7244
+Ranta-Virkkula/8354
+Vääksynpolku/8353
+Vääksynpolku/8352
+Myllytie/8351
+Kaipaanniemi/8358
+Kesäpirtti/8357
+Kesäpirtti/8356
+Ranta-Virkkula/8355
+TAMK/5006
+TAYS L/5007
+Teiskontie 24/5004
+TAMK/5005
+TAYS I/5008
+Kissanmaankatu 7/5009
+Kissanmaankatu 8/5010
+Naistenlahti/5014
+Virrat MH/6990
+Siperiantie/8345
+Siperiantie/8344
+Mellijärvi/8343
+Mellijärvi/8342
+Toosilanniementie/8328
+Toosilanniementie/8329
+Yli-Nikkilä/8326
+Yli-Nikkilä/8327
+Teiskontie 13/5001
+Kalevan kirkko/5000
+Teiskontie 25/5003
+Perälä th/8331
+Metsäkylän kääntöpaikka/6161
+Kertunpolku/3540
+Shell I/6165
+Muovitie/6167
+Tomppilantie/6169
+Tomppilantie/6168
+Metsäkylän koulu/6159
+Winterin alue/1522
+Kiurunpolku/3537
+Pispalan vt 141/1521
+Kiurunpolku/3536
+Kaarila/1524
+Järvensivuntie 15/3535
+Winterin alue/1523
+Järvensivuntie/3534
+Järvensivuntie 3/3533
+Pinni/3532
+Pispalan vt 138/1520
+Teekkarinkatu/3531
+Teekkarinkatu/3530
+Risuharjunkatu/1529
+Nokiantie 36/1526
+Puistokaarila/1525
+Tesoman vt 26/1528
+Peippospolku/3539
+Nokiantie/1527
+Peippospolku/3538
+Tulokkaantie/8395
+Kautialan koulu/8396
+Kautialan koulu/8397
+Isonkiventie/8398
+Isonkiventie/8399
+Metsäkylä/6153
+Hopearanta/8390
+Pehkutie /6151
+Vasaratie 13/3551
+Hopearanta/8391
+Parantaja/8392
+Taimitie/6157
+Parantaja/8393
+Tulokkaantie/8394
+Paavonpolku/6155
+Hyhkynkatu/1513
+Ratapihankatu/3546
+Hyhkynkatu/1512
+Järvensivu/3545
+Nuijatie/3548
+Pispalantori/1511
+Saraheinäntie/6149
+Pispalantori/1510
+Ratapihankatu/3547
+Pääskynpolku/3542
+Kertunpolku/3541
+Pääskynpolku/3543
+Epilä/1519
+Epilä/1518
+Nuijatie/3549
+Haapalinna/1515
+Haapalinna/1514
+Mäenrinteentie/6180
+Leppoja/8388
+Leppoja/8389
+Suolaniityntie/6182
+Ranta-Einola/8386
+Ranta-Einola/8387
+Järvikulmantie/8384
+Järvikulmantie/8385
+Raudanmaantie/8382
+Raudanmaantie/8383
+Peltola/6188
+Muuramäki/8380
+Muuramäki/8381
+Liisanniitty/6184
+Lähteenmäentie/6186
+Vuohenoja/3511
+Järvensivun koulu/3510
+Lukonmäki pohj./3515
+Pirkankatu 19/1500
+Turtola/3513
+Tipotie/1502
+Pirkankatu 24/1501
+Vuohenoja/3512
+Rajaportti/1504
+Tieteenkatu/3519
+Lukonmäki et./3518
+Tipotie/1503
+Lukonmäki et./3517
+Pulteri/1506
+Lukonmäki pohj./3516
+Rajaportti/1505
+Ahjola/1508
+Pulteri/1507
+Ahjola/1509
+Sillanmäki/8377
+Peltola/6172
+Vahderpää/8378
+Keijärvenpolku/6171
+Vahderpää/8379
+Keijärvenpolku/6170
+Sammalisto/8373
+Rutamäki/8374
+Rutamäki/8375
+Sillanmäki/8376
+Kaitaa/8370
+Kaitaa/8371
+Mahlatie/6178
+Sammalisto/8372
+Asuntila/6176
+Aurinkorinne/6174
+Insinöörinkatu/3520
+Hervantakeskus A/3522
+Ahvenisjärvi /3524
+Hervantakeskus D/3523
+Sähkökatu/3526
+Ahvenisjärvi/3525
+Ahvenisraitti/3528
+Sähkökatu/3527
+Ahvenisraitti/3529
+Santaharjuntie/3584
+Santaharjuntie/3583
+Leija/6120
+Leija/6121
+Rahola/1570
+Teknillinen lukio/3581
+Rotikko/6122
+Teknillinen lukio/3580
+Rotikko/6123
+Kyläsepäntie/6124
+Kyläsepäntie/6125
+Moisio/6116
+Pukkisaarenkatu/1565
+Lähdevainiontie/6115
+Vanha Kirkkotie/1566
+Kauraslaaksontie/6118
+Opiskelijankatu 38/3578
+Vanha Kirkkotie 7/1567
+Moisio/6117
+Opiskelijankatu 33/3579
+Korvenkatu 34/1568
+Opiskelijankatu 26/3576
+Piikahaka/1561
+Kauraslaaksontie/6119
+Opiskelijankatu 23/3577
+Piikahaka/1562
+Opiskelijankatu 10/3574
+Jurvalankatu/1563
+Opiskelijankatu 7/3575
+Metsäkylänkatu/1564
+Asemantie/6110
+Kirjasto/6113
+Lähdevainiontie/6114
+Asemantie/6111
+Kirjasto/6112
+Steiner-koulu/3590
+Vaakkolampi/1558
+Steiner-koulu/3589
+Siirtolapuutarha/1556
+Vaakkolampi/1557
+Simolankatu 54/1554
+Siirtolapuutarha/1555
+Lukonmäenkatu/3585
+Simolankatu 32/1552
+Ojustenkatu/1553
+Kierikankatu/3587
+Simolankatu 18/1550
+Lukonmäenkatu/3588
+Simolankatu 27/1551
+Liiketie/6145
+Kolsopintie/6147
+Sotilaankatu/3562
+Pispalanharju 18/2030
+Ylöjärven jäähalli/6141
+Pispalanharju /2031
+Kierikankatu/3560
+Kauppakeskus/6143
+Tahmelan viertotie/2033
+Pispan palvelukeskus/1547
+Pispan palvelukeskus/1548
+Simolankatu 7/1549
+Vasaratie 22/3554
+Tahmelan viertotie/2024
+Vasaratie 31/3555
+Virontörmänkatu 2/1540
+Palomäentie 31/2023
+Vasaratie 12/3552
+Virontörmänkatu 1/1541
+Pyynikinharju/2026
+Vasaratie 25/3553
+Pyynikinharju/2025
+Savilinnantie /1543
+Pispalanharju 2/2028
+Urkonmäki E/6137
+Savilinnantie /1544
+Pispalanharju 1/2027
+Kirvestie/3556
+Mattilankatu/1545
+Iidesaukio/3557
+Peurankatu/1546
+Pispalanharju 19/2029
+Kylvötie/6135
+Rauhalantie/6136
+Haaviston kenttä/6133
+Kylvötie/6134
+Pitkäperäntie/6131
+Haaviston kenttä/6132
+Tieteenkatu/3570
+Pitkäperäntie/6130
+Tesomankatu 31/1539
+Tesomankatu/1536
+Tesomankatu 27/1537
+Turtola/3563
+Kokkolankatu/1530
+Kokkolankatu/1531
+Finninmäki/3564
+Finninmäki/3565
+Lukonmäki/3566
+Töyränojantie/6129
+Tesomajärvenkatu/1534
+Lukonmäki/3567
+Töyränojantie/6128
+Tesomajärvenkatu/1535
+Hepolamminkatu 5/3568
+Ristimäentie/6127
+Tesoma B/1532
+Hepolamminkatu 4/3569
+Ristimäentie/6126
+Tesoma A/1533
+Lielahtikeskus A /1451
+Matkatie/6101
+Matkatie/6100
+Muroleenkatu/3629
+Hervannan valtaväylä 180/3626
+Kanjoninkatu 5/3627
+Kanjoninkatu 4/3620
+Muroleenkatu/3624
+Hervannan jäähalli/3625
+Hervannan jäähalli/3622
+Näyttelijänkatu/3615
+Näyttämönkatu/3616
+Hytinaukio/3617
+Lavastajanpolku/3618
+Hervannan paloasema/3610
+Hervannan paloasema/3611
+Elementinpolku/3612
+Elementinpolku/3613
+Länsi-Hervanta/3614
+Sonninottanlahti/3608
+Arkkitehdinkatu 3/3606
+Lavastajanpolku/3607
+Arkkitehdinkatu 9/3604
+Arkkitehdinkatu 4/3605
+Arkkitehdinkatu 17/3602
+Arkkitehdinkatu 14/3603
+Arkkitehdinkatu 36/3601
+Koukkuniemi/5020
+Rauhaniemi/5021
+Tammenlehväkeskus/5024
+Tammenlehväkeskus/5025
+Saukkola/5022
+Kaupin sairaala/5023
+Lapinniemen kylpylä/5018
+Lapinniemen kylpylä/5017
+Naistenlahti/5015
+Koukkuniemi/5019
+Petsamo/5030
+Koljontie 29/5027
+Koljontie 62/5026
+Koljontie 31/5029
+Koljontie 74/5028
+Tenniskeskus/5044
+Ali-Huikkaantie/5042
+Tenniskeskus/5043
+Hoitokoti/5040
+Ali-Huikkaantie/5041
+Hoitokoti/5039
+Perhetukikeskus/5038
+Irjala/5055
+Ali-Huikkaantie/5057
+Ali-Huikkaantie 8/5058
+Koilliskeskus C/5048
+Huikkaanaukio/5065
+Takahuhdintie 46/5064
+Takahuhdintie 37/5063
+Takahuhdintie 20/5062
+Takahuhdin koulu/5069
+Takahuhdintie 86/5068
+Takahuhdintie 65/5067
+Huikkaanaukio/5066
+Takahuhdintie 19/5061
+Potilashotelli/5060
+Potilashotelli /5059
+Tanhuankatu 40/5074
+Tanhuankatu 39/5073
+Tanhuankatu 48/5076
+Tanhuankatu 59/5075
+Luhtaankatu 8/5078
+Luhtaankatu/5077
+Pienkodinkatu/5079
+Takahuhdin koulu/5070
+Ristinarkku/5071
+Atanväylä/5089
+Atanväylä/5088
+Aitolahdentie 75/5087
+Atanpuisto/5086
+Atanpuisto/5085
+Nikinväylä 36/5083
+Atalankatu/5082
+Koilliskeskus D/5081
+Pienkodinkatu/5080
+Lautasenkatu/5099
+Ali-Huikkaantie 24/5096
+Kumpula/5095
+Lautasenkatu/5098
+Kolarinkatu/5097
+Nikinväylä /5092
+Nikinväylä/5091
+Ahola/5094
+Ahola/5093
+Nikki/5090
+Soirokatu/1414
+Lentävänniemen koulu/1417
+Lentävänniemen koulu/1416
+Ylöjärventie 152/6497
+Ylöjärventie 155/6496
+Majamaantie/6469
+Kierumaperäntie/6467
+Majamaantie/6468
+Komintie 226/6473
+Komintie 221/6472
+Komintie 338/6471
+Komintie 333/6470
+Yllöjärventie 808/6477
+Ylöjärventie 801/6476
+Komintie 96/6475
+Hanhijärventie/6478
+Hanhijärventie/6479
+Lintuharjuntie/6480
+Ylöjärventie 585/6482
+Lintuharjuntie/6481
+Hirvipolku/6484
+Ylöjärventie 590 /6483
+Lielahtikeskus B/1450
+Yllöjärventie 385/6486
+Hirvipolku/6485
+Ylöjärventie 367/6488
+Ylöjärventie 388/6487
+Raisamo/9303
+Utolankallio/9304
+Maatiala/8500
+Autovaaka/9301
+Raisamo/9302
+Maatiala/8501
+Autovaaka/9300
+Sipiläntie/9309
+Utolankallio/9305
+Sipiläntie/9308
+Siuron vt 203/9312
+Siuron vt 203/9313
+Kallioisentie/9314
+Kallioisentie/9315
+Urpolankatu/9310
+Urpolankatu/9311
+Voimalaitos th/9319
+Voimalaitos/9318
+Melo/9317
+Melo/9316
+Viholan ratsastuskoulu/9321
+Ojalantie/9322
+Viholan ratsastuskoulu/9320
+Ollilantie/9325
+Nokian asema D/8520
+Siuron vt 522/9326
+Ojalantie/9323
+Nokian asema A/8522
+Ollilantie/9324
+Penttilänmäentie/9328
+Nokian kirkko/8505
+Siuron vt 522/9327
+Nokian kirkko/8504
+Lielahden koulu/1409
+Kennonnokka/8503
+Penttilänmäentie/9329
+Kennonnokka/8502
+Kylmäojanpuisto/8509
+Kylmäojanpuisto/8508
+Nokian lukio/8507
+Nokian lukio/8506
+Penttilän pelto/9330
+Penttilän pelto/9331
+Vehnäkuja/9332
+Vehnäkuja/9333
+Lukkisalmentie/9334
+Tyttölä/8511
+Lukkisalmentie/9335
+Härkitie/8512
+Tyttölä/8510
+Linnavuoren koulu/9346
+Linnavuoren koulu/9345
+Vuorenhovintie/9342
+Siuronkallio/9341
+Patria th/9344
+Patria th/9343
+Siuronkallio/9340
+Hervantakeskus B/3699
+Hatanpään vt 42/2507
+Vuoreskeskus/3639
+Hatanpään vt 31/2506
+Verotalo/2505
+Näyttämönkatu/3637
+Vuoreskeskus/3638
+Vihilahti/2509
+Vihilahti/2508
+Mäyränmäki/3631
+Mäyränmäki/3632
+Viinikanlahti/2503
+Vuoreksen koulu/3635
+Hatanpään vt 25/2502
+Vuoreksen koulu/3636
+Hatanpään vt 24/2501
+Hermia/3633
+Viinikanlahti /2500
+Korkinmäenkatu/3650
+Talvitie/2516
+Västinginmäki/3648
+Kannistonkatu/2515
+Tuotekatu/3649
+Leirintäkatu /2518
+Talvitie/2517
+Leirintäkatu/2519
+Rimmi/3640
+Rimmi/3641
+Hatanpään koulu/2510
+Hervantakeskus C/3642
+Virolainen/3643
+Rantaperkiö/2512
+Virolainen/3644
+Hatanpään koulu/2511
+Honkakuusenkatu/3645
+Kannistonkatu/2514
+Eero Roineen katu/3646
+Rantaperkiö/2513
+Västinginmäki/3647
+Honkakuusenkatu/3660
+Hatanpään hovi/2529
+Hatanpään hovi/2528
+Hatanpään sairaala/2527
+Sarvis/2526
+Sarvis/2525
+Valmetinkatu/2524
+Laulunmaankatu/3653
+Härmälän koulu/2521
+Härmälän koulu/2520
+Korkinmäenkatu/3651
+Laulunmaankatu/3652
+Moisio/3670
+Orivedenkatu/3723
+Kanjoninkatu/3721
+Shell Hervanta/3729
+Hervannan valtaväylä/3728
+Kauhakorvenkatu 5/3727
+Kyösti/7060
+Hepolamminkatu/3711
+Työpajanraitti/3710
+Hepolamminkatu/3712
+Kanjoninkatu/3718
+Hermiankatu 7/3715
+Hermiankatu 22/3714
+Vapaa-aikakeskus/3717
+Vapaa-aikakeskus/3716
+Koulukeskus/7070
+Puuhkalakki/7072
+Koulukeskus/7071
+Hakatie/7074
+Puuhkalakki/7073
+Sienimetsäntie/7076
+Hakatie/7075
+Erämiehentie/7078
+Sienimetsäntie/7077
+Erämiehentie/7079
+Perkiöntie/7039
+Kyösti/7041
+Kyösti/7040
+Kyöstinpolku/7049
+Kyöstinpolku/7048
+Lehtimäentie/7047
+Kunnan varasto/7046
+Haapatie/7045
+Taitajankuja/7044
+Turri/7043
+Turri/7042
+Vaajakatu/3731
+Vaajakatu/3730
+Hervannan valtaväylä/3733
+Kylmäsuonkatu/3732
+TTY/3735
+TTY/3734
+Tieteenkatu 7/3737
+Tieteenkatu 8/3736
+Vasamapolku/7050
+Valimotie/7052
+Vasamapolku/7051
+Teollisuustie/7057
+Ahvenistontie/7054
+Valimotie/7053
+Metallitie/7055
+Hermiankatu 20/3704
+Työpajanraitti/3709
+Kytömaankatu/3707
+Kytömaankatu/3708
+Hermiankatu /3701
+Pirkkalan jäähalli/7086
+Hopeatäplä/7084
+Hopeatäplä/7085
+Kirjosiipi/7082
+Kirjosiipi/7083
+Amiraali/7080
+Amiraali/7081
+Linnakorpi L/7098
+Linnakalliontie/7099
+Aittokorventie/7093
+Prunnintie/7094
+Prunnintie/7095
+Linnakallio/7096
+Kukkulantie/7090
+Kukkulantie/7091
+Aittokorventie/7092
+Nokian ammattiopisto/8530
+Kankaantaankatu/8532
+Nokian ammattiopisto/8531
+Kankaantaka/8534
+Kankaantaankatu/8533
+Nokian asema C/8524
+Nokian asema B/8526
+Nokian asema E/8528
+Marjamäki L/7933
+Marjamäki I/7932
+Marjamäki P/7931
+Marjamäki E/7930
+Koivulinna P/7937
+Ruokometsä /7936
+Pajakatu/8537
+&#214;ljytie/8538
+Vehoniemenkylä P/7939
+Kankaantaka/8535
+Saarikylät th P/7938
+Pajakatu/8536
+&#214;ljytie/8539
+Perkiönkatu/8554
+Perkiönkatu/8555
+Montio E/7924
+Rautasema P/7923
+Vuohiontie E/7926
+Montio P/7925
+Hormistontie E/7920
+Rautasema E/7922
+Hormistontie P/7921
+Vuohiontie P/7927
+Hulikankulma P/7929
+Rapinkorventie/8567
+Ilkan alue/8565
+Ilkan alue/8564
+Pajakallionkatu/8563
+Pajakallionkatu/8562
+Halimaa/8561
+Halimaa/8560
+Lastustenkulma P/7915
+Lastustenkulma E/7914
+Ruokolammi P/7913
+Ruokolammi E/7912
+Perimmäinen P/7911
+Perimmäinen E/7910
+Teerentie P/7919
+Teerentie E/7918
+Puutarhatie P/7917
+Nuijamiehentie/7020
+Pirkkalan jäähalli/7021
+Teollisuustie/7022
+Vaitti/7023
+Lavajärventie/6465
+Heikkiläntie/7024
+Kierumaperäntie/6466
+Keskisentie/7025
+Koivisto/7026
+Lavajärventie /6464
+Villa Silva/8570
+Koivisto/7027
+Villa Silva/8571
+Myllyhaka/8572
+Myllyhaka/8573
+Lähdekorpi/8576
+Lähdekorpi/8577
+Notkotie/8578
+Kankaantaan koulu/8569
+Lastusten kartano/7906
+Lastusten koulu/7907
+Tikinmaa/7909
+Pikkusammatintie/6459
+Tommila/7018
+Pikkusammatintie /6458
+Suupantori/7017
+Tommila/7019
+Lastusten kartano/7902
+Karimaantie th /7904
+Pauni/7033
+Tornikaari/7034
+Vanhankouluntie/6450
+Sorkkala/7031
+Pauni/7032
+Pitkäkorventie/8580
+Ollila/7037
+Pitkäkorventie/8581
+Perkiöntie/7038
+Lentoasema/7035
+Niemenmaa/7036
+Valimokatu/8584
+Valimokatu/8585
+Lähdeniitty/8582
+Lähdeniitty/8583
+Torvisienenkatu/8588
+Torvisienenkatu/8589
+Sorkkala/7030
+Taka-Lauttala/8586
+Taka-Lauttala/8587
+Notkotie/8579
+Lasikaari/7029
+Lasikaari/7028
+Pakkalankulma/7002
+Metsäsepänpuisto/8590
+Pakkalankulma/7003
+Metsäsepänpuisto/8591
+Hannunpolku/7004
+Hannunpolku/7005
+Karhumäki/7000
+Koppelonkatu/8597
+Harjuniitty/8598
+Koppelonkatu/8596
+Pirkkala/7015
+Suupantori/7016
+Kurikka/7013
+Pirkkala/7014
+Haikka/7011
+Kurikka/7012
+Haikka/7010
+Killo/7009
+Loukonlahti/7008
+Nuolialan koulu/7007
+Nuolialan koulu/7006
+Kukkula/6348
+Kukkula/6349
+Hirvilahti/6346
+Pikkupispalantie/6351
+Pikkupispalantie/6350
+Säkintie/6356
+Lippaanlahti/6353
+Nokian terveyskeskus/8600
+Säkintie/6357
+Lehtomäki/6358
+Lehtomäki/6359
+Kellaritie/6361
+Kellaritie/6360
+Piuhalantie/6363
+Piuhalantie/6362
+Kirkkokuja/6365
+Kirkkokuja/6364
+Riihitie/6367
+Riihitie/6366
+Ruskeepää/8635
+Ruskeepää/8634
+Kalhunkatu/8637
+Kalhunkatu/8636
+Ristiveräjä/8639
+Ristiveräjä/8638
+Kaupantie/9200
+Kaupantie L/9201
+Nikkarinkatu/8640
+Pappistentie/9204
+Nikkarinkatu/8641
+Pappistentie L/9205
+Ahteensivu/8642
+Kaiholantie/9202
+Ahteensivu/8643
+Kaiholantie L/9203
+Tiesenmäki/8644
+Ratinan kauppakeskus/120
+Ratinan kauppakeskus/121
+Menkala/8626
+Liehu th L/9207
+Keho/8625
+Liehu th/9206
+Keho/8624
+Rajalanlahti L/9209
+Pähkinämäentie/8623
+Rajalanlahti/9208
+Ilveskatu/8629
+Ilveskatu/8628
+Menkala/8627
+Kuhmoisten raja/9210
+Kangasalan raja L/9211
+Riihilahti/9212
+Kenttäkatu/8632
+Riihilahti L/9213
+Kenttäkatu/8633
+Sappee/9214
+Koskenmäen koulu/8630
+Sappee L/9215
+Koskenmäen koulu/8631
+Valkjärvi/9216
+Päivärinteentie/8617
+Päivärinteentie/8616
+Räikäntie/8619
+Räikäntie/8618
+Eden/8613
+Eden/8612
+Vihola/8615
+Vihola/8614
+Piilenmäenkatu/8620
+Piilenmäenkatu/8621
+Pähkinämäentie/8622
+Nuijamiestentie/8609
+Nuijamiestentie/8608
+Orelinkatu/8607
+Orelinkatu/8606
+Kumitehdas/8605
+Kumitehdas/8604
+Pirkkalaistori/8603
+Pirkkalaistori/8602
+Nokian terveyskeskus/8601
+Viholanraitti/8610
+Viholanraitti/8611
+Poikkijärventie E/9241
+Poikkijärventie/9240
+Kokonniementie L/9243
+Kokonniementie/9242
+Pukkalantie L/9245
+Pukkalantie/9244
+Papinsaarentie L/9247
+Papinsaarentie/9246
+Kuhmoinen keskusta E/9249
+Kuhmoinen keskusta/9248
+Poikkijärvi E/9239
+Moltsiantie 319/9252
+Kuhmoinen MH/9250
+Moltsiantie 71/9254
+Terrikallio L/9225
+Terrikallio/9224
+Mustikka L/9227
+Mustikka/9226
+Katajajärvi L/9221
+Katajajärvi/9220
+Saarikko L/9223
+Saarikko/9222
+Valkjärvi L/9217
+Myllykylä/9218
+Myllykylä L/9219
+Hangaslammi/9230
+Poikkijärvi/9238
+Kuhmalahti th Poikkijärvi L/9237
+Kuhmalahti th Poikkijärvi/9236
+Raitamäentie L/9235
+Raitamäentie/9234
+Putkisto L/9233
+Putkisto/9232
+Hangaslammi L/9231
+Myyränkulma/9228
+Myyränkuja L/9229
+Pakkalantie 14/9269
+Helmikkala/9264
+Helmikkala/9265
+Partala/9266
+Partala/9267
+Pakkala/9260
+Pakkala/9261
+Vilpeilän koulu/9262
+Kotkansiipi/3760
+Laaksolantien th/9274
+Kivisalmi/9271
+Haapasaarentie 190/9272
+Kivisalmi/9270
+Kotkansiipi/3761
+Siltanen/3762
+Siltanen/3763
+Maustekatu/4104
+Seimenkatu/4102
+Juvankatu 52/4108
+Juvankatu 46/4106
+Järviniitty/7169
+Järviniitty/7168
+Lintumäki/7167
+Vehmaistenkatu/4112
+Lintumäki/7166
+Hyrsinki/7165
+Hyrsingin koulu/7163
+Hyrsingin koulu/7162
+Sorkkala/7161
+Sorkkala/7160
+Kalliojärvi/5645
+Kalliojärvi/5644
+Latomaantie/7879
+Aukionkatu/4115
+Aukionkatu/4116
+Koivuporras/5649
+Kostialansaarentie/7876
+Kaukajärventie/4117
+Koivuporras/5648
+Punkalaitumentie/7875
+Koikantie/5647
+Koikantie/5646
+Kostialansaarentie/7877
+Valkila/7175
+Valkila/7174
+Narva/7880
+Sionkylä/7171
+Sionkylä/7170
+Isolammi/7173
+Isolammi/7172
+Lakeissuo L/9191
+Lakeissuo/9190
+Pajula th L/9193
+Pajula th/9192
+Lemojärventie L/9195
+Lemojärventie/9194
+Taustianjärvi L/9197
+Taustianjärvi/9196
+Vehkajärvi L/9199
+Vehkajärvi/9198
+Pohja/9181
+Kouluntie/9180
+Kauppilaisenkatu 20/4100
+Tulimäki/9186
+Pohjan risteys L/9185
+Pohjan risteys/9184
+Rasinkulma L/9189
+Rasinkulma/9188
+Tulimäki L/9187
+Vihniäntie/7852
+Kesola/7851
+Valkkistentie /7850
+Teisko kko th/5600
+Ilmiäntie/7866
+Ilmiäntie/7867
+Maarianmäki/7864
+Maarianmäki/7865
+Viraantie/7868
+Viraantie/7869
+Asikaisentie/7870
+Punkalaitumentie/7874
+Koivistalhontie/7873
+Koivistalhontie/7872
+Asikaisentie/7871
+Vihniäntie/7853
+Järvenrannantie/7854
+Järvenrannantie/7855
+Tanska/7856
+Tanska/7857
+Koskenkyläntie/7858
+Koskenkyläntie/7859
+Vatajantie/7861
+Vatajantie/7860
+Kauppilantie/7863
+Kauppilantie/7862
+Nokia Pirkkalaistie/8667
+Sääksjärvi th/7807
+Sääksjärvi th/7806
+Rokanoja/8669
+Ideapark/7803
+Ideapark/7802
+Helsingintie/7805
+Helsingintie/7804
+Saikantie/7801
+Saikantie/7800
+Siuro Linnavuori th/8680
+Färmintie /8686
+Färmintie/8685
+Riihelä /8684
+Riihelä/8683
+Rokanoja/8682
+Siuro Linnavuori th/8681
+Ryttylänmäki/7100
+Mutalan koulu/6301
+Linnakalliontie L/7102
+Mutalan koulu/6300
+Ryttylänmäki/7101
+Linnakallio I/7103
+Suonsivuntie/8651
+Suonsivuntie/8650
+Rälssikatu/8653
+Rälssikatu/8652
+Tupsunluhta/8655
+Tupsunluhta/8654
+Tiesenmäki/8645
+Viholan ramppi/8647
+Rongankatu 9/108
+Kirkonkylän koulu/7114
+Poutunpuisto/8662
+Nokia Pirkkalaistie/8666
+Kankaantaan koulu /8664
+Poutunpuisto/8663
+Sammalisto/8658
+Tervasuo/8656
+Tervasuo/8657
+Ruskea-ahde th/7811
+Linnakorpi I/7105
+Iisakintie/7813
+Kranaatinmäki/7123
+Reippi/7124
+Reippi/7125
+Pehula/7126
+Vanhakirkko/7120
+Vanhakirkko/7121
+Kranaatinmäki/7122
+Tanila/7117
+Tanila/7116
+Koiso/7119
+Koiso/7118
+Laitalemmi/7136
+Laitalemmi/7137
+Hahmo/7134
+Hahmo/7135
+Toppari/7132
+Toppari/7133
+Hiidenmaa/7130
+Hiidenmaa/7131
+Servontie/6307
+Servontie/6306
+Ilottulantie /6303
+Ilottulantie/6302
+Jyrkänpää/7129
+Susikiventie/6305
+Jyrkänpää/7128
+Susikiventie/6304
+Pehula/7127
+Murhasaari/8694
+Murhasaari/8695
+Purso/8696
+Purso/8697
+Siuron koulu/8698
+Kranstolppa/7140
+Kranstolppa/7141
+Koivistonkylä/6340
+Hongisto/7142
+Koivistonkylä/6341
+Hongisto/7143
+&#196;ijälä/7144
+&#196;ijälä/7145
+Parvilahti/6344
+Harkote/7146
+Parvilahti/6345
+Linnavuori/8690
+Harkote/7147
+Vironlahdentie/6342
+Linnavuori/8691
+Daavid/7148
+Vironlahdentie/6343
+Einola/7139
+Einola/7138
+Höökinmäki/7150
+Höökinmäki/7151
+Myllyhaantie/1214
+Myllyhaantie/1215
+Daavid/7149
+Siivikkala/1210
+Siivikkala/1211
+Isolukko/8015
+Pähkinäkallio/8014
+Harjunsalo/8017
+Kaijanaho/8016
+Lentolantie/8011
+Mämmisuo/8010
+Suoraman työväentalo/8013
+Suorama/8012
+Leppäkorpi/8734
+Mäkirinteentie/8007
+Välimaankatu/8733
+Artturintie/8008
+Lentolankuja/8009
+Leppäkorpi/8735
+Pikonkangas/8020
+Lehtimäenkatu/8731
+Tarpila/8028
+Välimaankatu/8732
+Kangasalan jäähalli/8027
+Lehtimäenkatu/8730
+Peiponpolku/8025
+Pikkolan koulu/8024
+Kiuruntie/8023
+Pikkola/8022
+Pikontie/8021
+Kunnansarka/8729
+Kunnansarka/8728
+Vihnuskoti/8726
+Kankaantaka/8725
+Rounionkatu/8723
+Korpitie/8018
+Rounionkatu/8722
+Nikkarintie/8019
+Tapulinmäki/8031
+Urkutehdas/8030
+Kirkkomaa/8032
+Hintsa/8760
+Kangasala/8035
+Kangasala/8034
+Hintsa/8761
+Väinäntie/8762
+Pikkuharju/8037
+Väinäntie/8763
+Kohmala/8764
+Kuohunharju/8039
+Kohmala/8765
+Sarpatti/8756
+Rekiälä/8029
+Sarpatti/8757
+Kuohunlahti/8042
+Herttualantie/8041
+Kangasala/8040
+Jousitie/8046
+Kalkku th/8750
+Mäyrävuori/8045
+Herttualantie/8044
+Jousitie/8043
+Pitkäniemi th/8753
+Kirvesmiehentie/8049
+Kalkku th/8751
+Mäyrävuori/8048
+Pitkäniemi th/8752
+Jokioistentie/8047
+Tiihala th/8058
+Syrjänpääntie/8059
+Kangasalan ammattiopisto/8054
+Tiihala th/8055
+Yli-Marttila/8056
+Keisarinharju/8057
+Jokioistentie/8050
+Kangasalan ammattiopisto/8051
+Kirvesmiehentie/8052
+Yli-Marttila/8053
+Rohdinkuja/702
+Villa Viola/700
+Tampellan Esplanadi/701
+Tiihala L/8069
+Törölänranta E/8067
+Kisarannantie 133/8068
+Mobilia/8065
+Kisaranta/8066
+Kisarannantie 134/8063
+Kisaranta/8061
+Syrjänpääntie/8062
+Keisarinharju/8060
+Jokioinen/8076
+Törölänranta/8078
+Tiihala/8079
+Kaarikatu/8721
+Kaarikatu/8720
+Tredu/8070
+Leipi P/8071
+Leipi/8072
+Ala-Marttila/8073
+Ala-Marttila/8074
+Jokioinen P/8075
+Pitkäniemen päiväkoti/8714
+Pitkäniemen päiväkoti/8715
+Tylkkä th/8089
+Kaivannon kanava L/8087
+Tylkkä th /8088
+Pitkäniemi/8710
+Suoraman koulu/8081
+Kyötikkäläntie/8082
+Suoraman koulu/8080
+Sairaala th 12 L/8085
+Kaivannon kanava I/8086
+Kyötikkäläntie/8083
+Sairaala th 12 I/8084
+Leppästentie/1203
+Leppästentie/1202
+TAYS E/4998
+Pitkäniementie/8708
+Vasamantie/1205
+Pitkäniementie/8709
+Vasamantie/1204
+Nuoralahti/1201
+Nuoralahti/1200
+Kuljuntie 12/8703
+Siuro kirkko/8700
+Siuro kirkko/8701
+Pitkäniemi th/8706
+Lamminsyrjäntie/1207
+Lamminsyrjäntie/1206
+Kuljuntie 15/8704
+Siivikkalan koulu/1209
+Siivikkalan koulu/1208
+Koivistontie/3004
+Koivistontie/3005
+Kuokkamaantie/3002
+Kuokkamaantie/3003
+Veturihallit/3008
+Veturihallit/3009
+Ekankulma/3006
+Ekankulma/3007
+Muuntoasemantie/9140
+Rauhalantie L/9141
+Rauhalantie/9142
+Tilkonmäenkatu/3012
+Säästäjänkatu/3011
+Säästäjänkatu/3010
+Keljontie L/9147
+Keljontie/9148
+Moltsia L/9149
+Tuomirannantie L/9143
+Tuomirannantie/9144
+Korpiniemi L/9145
+Korpiniemi/9146
+Taipaleentie/9152
+Kaskelantie L/9153
+Moltsia/9150
+Taipaleentie L/9151
+Kaartotie/3001
+Viinikan liittymä/3000
+Jokiniementie/9158
+Härkimetsäntie L/9159
+Suovanvuorentie/9156
+Jokiniementie L/9157
+Kaskelantie/9154
+Marjamäentie L/9155
+Nekalan koulu/3028
+Nekalan koulu/3029
+Viinikan kirkko/3026
+Viinikan puisto/3027
+Ahlmanintie/3024
+Viinikan kirkko/3025
+Viinikankatu 42/3034
+Viinikankatu 49/3033
+Viinikankatu 40/3032
+Härkimetsäntie/9160
+Kuokkamaantie 6/3031
+Kuhmalahti kk L/9161
+Kuokkamaantie 17/3030
+Kuhmalahti kk/9162
+Maljastentie L/9163
+Salokankaantie/9164
+Salokankaantie L/9165
+Puntarinraitti/9166
+Peltolantie L/9167
+Rantatie/9168
+Rantatie L/9169
+Valkama/3017
+Kitinrinne/3018
+Kitinrinne/3019
+Automiehenkatu/3013
+Pähkinämäenkatu/3014
+Pähkinämäenkatu/3015
+Valkama/3016
+Puntari/9170
+Multisillankatu/3021
+Puntari L/9171
+Multisillankatu/3020
+Multisilta/3022
+Penttiläntie/9174
+Penttiläntie L/9175
+Myllyojantie/9172
+Myllyojantie L/9173
+Tervaniemi/9178
+Tervaniemi L/9179
+Keskisentie/9176
+Keskisentie L/9177
+Isännänkatu/3049
+Isännänkatu/3048
+Haukisenkatu/3047
+Haukisenkatu/3046
+Teerimäentie /9104
+Vääksyn kartano L/9103
+Nuorto/9106
+Teerimäentie L/9105
+Pohtiolammi /9100
+Vääksyn kartano/9102
+Pohtiolammi L/9101
+Veisu/3051
+Multiojankatu/3052
+Veisu/3050
+Emännänkatu/3055
+Vuoreksenkatu/3056
+Vuoreksenkatu/3053
+Emännänkatu/3054
+Viinikankatu 56/3036
+Viinikankatu 55/3035
+Huikarinkatu/3038
+Viinikankatu 65/3037
+Koivistontie 35/3039
+Kerppolan puistotie L/9109
+Nuorto L/9107
+Kerppolan puistotie/9108
+Isosaari L/9117
+Isosaari/9116
+Veneojansalmi L/9115
+Venojansalmi/9114
+Veneojantie L/9113
+Veneojantie/9112
+Sydänmaantie L/9111
+Sydänmaantie/9110
+Mahlankatu/3040
+Mahlankatu/3041
+Valkama/3042
+Valkama/3043
+Nirvankatu 18/3044
+Nirvankatu/3045
+Jokipohjantie 23/3069
+Jokipohjantie 18/3068
+Pullosaari/9118
+Pullosaari L/9119
+Humisevantie/9122
+Pelisalmi L/9121
+Liikennelaitos/3070
+Hietasentie/9124
+Humisevantie L/9123
+Pykäläkorpi/9126
+Hietasentie L/9125
+Ruupertintie/9128
+Pykäläkorpi L/9127
+Siirtolapuutarha/3077
+Muotialantie /3078
+Muotialantie 23/3075
+Siirtolapuutarha/3076
+Jokipohjantie 53/3073
+Muotialantie 38/3074
+Pelisalmi/9120
+Liikennelaitos/3071
+Jokipohjantie 26/3072
+Ruupertintie L/9129
+Pakkalantie L/9135
+Liuttu/8000
+Sahalahti th/9134
+Liuttu/8001
+Sahalahti L/9133
+Pitkäjärvi/8002
+Sahalahti/9132
+Kasarmi/8003
+Muuntoasemantie L/9139
+Ilkonmäki/8004
+Paatialantie/9138
+Kappeli/8005
+Paatialantie L/9137
+Ilkko/8006
+Pakkalantie/9136
+Nekalantie 38/3064
+Nekalantie 55/3065
+Nekalantie 54/3066
+Riihitie/3067
+Korkinmäki/3060
+Rautia L/9131
+Rautia/9130
+Lokintaival/3061
+Nekalantie 20-22/3062
+Nekalantie 29/3063
+Uotilantie/3088
+Kuoppamäentie 44/3086
+Siirtolapuutarha/3085
+Kuoppamäentie 34/3084
+Kuoppamäentie 29/3083
+Riuttasentie/6620
+Seurakuntatalo/3082
+Seurakuntatalo/3081
+Nekalantie 110/3080
+Polunmäenkatu/3925
+Polunmäenkatu/3926
+Solkimäki/3923
+Solkimäki/3924
+Parkkuu/6611
+Muotialantie 43/3079
+Steiner-koulu/3098
+Steiner-koulu/3097
+Ahlmanintie/3099
+Santamatinkatu/3094
+Santamatinkatu/3093
+Ahlman/3096
+Ahlman/3095
+Koivistontie 10/3090
+Koivistontie 18/3092
+Koivistontie 31 /3091
+Pitkäkankaantie/6601
+Pitkäkankaantie/6600
+TAMK/3949
+Rusko/3940
+Palvaanniemi/3943
+Kissanmaa/3944
+Rusko/3941
+Palvaanniemi/3942
+Niittyhaankatu/3935
+Kauhakorvenkatu 2/3937
+Vätäräisentie/7710
+Vätäräisentie/7711
+Peuranta/5506
+Palonkylä th/5505
+Palonkylä th/5504
+Hinkkala/5503
+Hinkkala/5502
+Marttila/5501
+Marttila/5500
+Laulunmaa/3951
+Laulunmaa/3950
+Peuranta/5507
+Pulesjärvi/5511
+Pulesjärvi/5510
+Punapohja/5513
+Sipilänmoisio/5512
+Rajakorpi/5530
+Kuorejärvi/5531
+Viitapohja/5524
+Paarla/5528
+Paarla/5527
+Rajakorpi/5529
+Riuttanmäki/5538
+Syväjärvi th/5539
+Mattilansuo/5536
+Riuttanmäki/5537
+Vierukallio/5534
+Airokatu/1101
+Mattilansuo/5535
+Airokatu/1102
+Kuorejärvi/5532
+Vierukallio/5533
+Reuharinniemi/1100
+Sisaruspohja/5542
+Sisaruspohja/5541
+Syväjärvi th/5540
+Leinolankatu 122/4418
+Pyykkirannantie/5547
+Pyykkirannantie/5548
+Ala-Pärri/5549
+Kurjentie/5543
+Kurjentie/5544
+Lahdentausta/5545
+Lahdentausta/5546
+Tiinukorpi/5551
+Ala-Pärri/5550
+Perkiönvuori/5553
+Tiinukorpi/5552
+Vattula/5556
+Loppi/5557
+Perkiönvuori/5554
+Vattula/5555
+Loppi/5558
+Ylä-Pirilä/5559
+Ylä-Pirilä/5560
+Iso-Kartano/5564
+Iso-Kartano/5563
+Pirilä/5562
+Kaipanen/4430
+Pirilä/5561
+Lorukorvenkatu/4433
+Lorukorvenkatu/4432
+Siskontie/7700
+Vanattara/7702
+Siskontie/7701
+Lehtimäentie/7704
+Vanattara/7703
+Sorvalammentie/7706
+Lehtimäentie/7705
+Kukkolantie/7708
+Kennolantie/8766
+Sorvalammentie/7707
+Kennolantie/8767
+Pihlajamäentie/8768
+Kukkolantie/7709
+Pihlajamäentie/8769
+Taivalkunta/8770
+Alastalontie/8772
+Taivalkunta/8771
+Helamäki/8774
+Alastalontie/8773
+Vehkoperä/8776
+Helamäki/8775
+Lammintie/6643
+Jouttijärventie/6644
+Jouttijärventie /6645
+Kontaa/8779
+Vehkoperä/8777
+Kontaa/8778
+Ruolahti/8783
+Ruolahti/8782
+Santamäen th/8781
+Santamäen th/8780
+Vahalahden koulu/8787
+Vahalahden koulu/8786
+Suoniemi/8785
+Suoniemi/8784
+Haaposentie/6638
+Haaposentie/6639
+Leppämäki/6636
+Leppämäki/6637
+Rikala/6634
+Rikala/6635
+Kitunen/6632
+Kitunen/6633
+Kuokkamaantie 2/3901
+Sarkola/8788
+Sarkola/8789
+Niittyhaankatu/3908
+Kattilainen/8796
+Tottijärvi th/8795
+Kattilainen/8797
+Levontie/8792
+Tolppa th/8791
+Tottijärvi th/8794
+Levontie/8793
+Lammintie/6642
+Eromäki/6641
+Eromäki/6640
+Tolppa th/8790
+Latvalantie/6625
+Haukkajoentie/6626
+Haukkajoentie/6627
+Haaraniemi/6628
+Riuttasentie/6621
+Kallio/6622
+Kallio/6623
+Latvalantie/6624
+Haaraniemi/6629
+Tapiola/6631
+Tapiola/6630
+Vedenottamontie/8880
+Vedenottamontie/8881
+Suojoki/8882
+Suojoki/8883
+Antinkärki/8884
+Antinkärki/8885
+Kaarina Maununtyttären tie 617/8886
+Lapintie 2/600
+Ahulisto/8877
+Ahulisto/8876
+Varsamäentie/8879
+Varsamäentie/8878
+Tietotalo/601
+Leru/8870
+Leru/8871
+Koivikko/8874
+Koivikko/8875
+Liuksiala/8872
+Liuksiala/8873
+Tähkätie/8868
+Toikkola/8867
+Toikkola/8866
+Tähkätie/8869
+Ruishuhta/8861
+Ruokoniityntie/8862
+Ruokoniityntie/8863
+Alanko/8864
+Ruishuhta/8860
+Saarenmaantie/8859
+Saarenmaantie/8858
+Pajutila/8855
+Pajutila/8854
+Ketunpolku/8857
+Ketunpolku/8856
+Utukanpolku/8852
+Utukanpolku/8853
+Uotila/8850
+Uotila/8851
+Liuksialan koulu/8849
+Liuksialan koulu/8848
+Suntinmäenkuja/8847
+Suntinmäenkuja/8846
+Ranta-Koivisto/8845
+Ranta-Koivisto/8844
+Korpiniitty/8843
+Hietalanperäntie/6594
+Pyydysmäentie/6593
+Pyydysmäentie/6592
+Veturikatu/3110
+Virtaintie 476/6591
+Toukola/6598
+Virtaintie 1075/6597
+Virtaintie 1075/6596
+Hietalanperäntie/6595
+Paloasema/8840
+Virtaintie 476/6590
+Korpiniitty/8842
+Paloasema/8841
+Pajulahti/8832
+Veturikatu/3109
+Nirvankatu 52/3106
+Nirvankallionkatu/3105
+Työtönjärventie/6588
+Tuotekatu 4/3108
+Työtönjärventie/6589
+Nirvansuonkatu/3107
+Koivistonkeskus/3102
+Kaartopuisto/3101
+Nirvankallionkatu/3104
+Koivistonkeskus/3103
+Kuokkamaantie 14/3100
+Tottijärvi/8831
+Yli-Marttila/8823
+Ali-Marttila/8824
+Lamminperä/8821
+Yli-Marttila/8822
+Naskalintie/8827
+Tolppa/8828
+Ali-Marttila/8825
+Naskalintie/8826
+Toukola/6599
+Tolppa/8829
+Lamminperä/8820
+Sorva/8814
+Sorva/8815
+Metsä-Tuomaalantie/8816
+Metsä-Tuomaalantie/8817
+Loukko/8810
+Loukko/8811
+Murtoonvuori/8812
+Murtoonvuori/8813
+Susitaipale/8818
+Susitaipale/8819
+Rajatie/8805
+Naulonlahdentie/8806
+Rajatie/8804
+Sammalistontie/8802
+Ketteenniementie/8809
+Naulonlahdentie/8807
+Ketteenniementie/8808
+Sorrinmäki L/7679
+Kelhonmutka L/7677
+Sotavallantie E/7678
+Korkinmäenkatu 3 /3147
+Kyläkeinunkatu/3145
+Kelhonmutka I/7682
+Tanhuantie L/7681
+Kelho I/7680
+Tanhuantie I/7686
+Sorrinmäki I/7684
+Havumetsänkatu/3138
+Hallila/3134
+Hallilan koulu/3136
+Korkinmäenkatu 4/3142
+Havumetsänkatu/3141
+Kyläkeinunkatu/3144
+Hallilan koulu/3143
+Kuusikonkatu/3125
+Kiulukatu/3126
+Hallilantie/3123
+Loukkaankatu/3124
+Pehkusuonkatu/3129
+Korpitie/2624
+Puhhoonlahti/3999
+Toivionkatu 3/2623
+Lehtimetsänkatu/3127
+Pehkusuonkatu/3128
+Toiviontie/2621
+Patamäenkatu 11/2627
+Patamäenkatu 16/2626
+Korpitie/2625
+Pajukannantie th /9019
+Vehkalahti /9026
+Asematien th /9027
+Asematien th /9028
+Eräjärventi 509 /9022
+Eräjärventie 177 /9024
+Vehkalahti /9025
+Pajukannantie th /9020
+Perkkoonkatu/3133
+Kuusikonkatu/3132
+Kiulukatu/3131
+Lehtimetsänkatu/3130
+Leppästensuonkatu/3112
+Lempääläntie 31/3115
+Lempääläntie/3116
+Pullerikinahde/3117
+Uotilantie/3118
+Vedentaustantie th /9030
+Sotilaankatu /3120
+Hallilantie /3122
+Loukkaankatu/3121
+Partolanhovi/2607
+Partolanhovi/2608
+Kutteritie/2605
+Kutteritie/2606
+Pereentie/2603
+Pereentie/2604
+Marjaniemen th /9001
+Järvenpääntien th /9003
+Koivumäen th /9002
+Eräpyhätien th /9005
+Järvenpääntie th /9004
+Eräjärven koulu /9007
+Eräjärven koulu /9006
+Eräjärven kirkko /9008
+Vedentaustantie th /9009
+Loukonlahdentie/2610
+Loukonlahdentie/2611
+Kreetankuja/2612
+Kreetankuja/2613
+Eräjärventie 1049 /9014
+Eräjärventi 1046 /9013
+Eräpyhäntien th /9012
+Eräpyhäntien th /9011
+Eräjärventie 759 /9018
+Kotaniementien th /9016
+Rönni /9015
+Postitorvenkatu/3169
+Postitorvenkatu/3168
+IKEA/3167
+Lahdenperänkatu/3172
+Lahdenperänkatu/3173
+Automiehenkatu 2/3170
+TAKK/3158
+Särkijärvenkatu/3160
+Särkijärvenkatu/3161
+TAKK/3163
+Perkiö/3165
+Lahdesjärvi/3166
+Niemenrannanaukio/1090
+Koirainmäki/7610
+Niemenrannanaukio/1091
+Teivaalantie 50/1088
+Päivääniemi/7606
+Teivaalantie 41/1089
+Päivääniemi/7607
+Toutosentie/7604
+Toutosentie/7605
+Lomamökit/7602
+Lomamökit/7603
+Vesilahti th/7600
+Vesilahti th/7601
+Priikoolinnokka/7608
+Priikoolinnokka/7609
+Mettistöntie/1083
+Mettistöntie/1082
+Pekolantie/1081
+Pekolantie/1080
+Vihattulantie/1087
+Vihattulantie/1086
+Ilmarinjärventie/1085
+Ilmarinjärventie/1084
+Lielahti th I/1079
+Lielahti th L/1078
+Harjunsivu/1075
+Harjuntausta 4/1072
+Ryydynpohja/1071
+Vesilahti/7625
+Vesilahden kirkko/7622
+Vesilahden kirkko/7623
+Enqvistinkatu/1066
+Hatanpään koulu/2598
+Partola/2597
+Enqvistinkatu/1067
+Sellukatu/1068
+Metsolankatu/2596
+Kenkätie 3/2595
+Harjuntausta 7/1069
+Kenkätie/2591
+Possilankatu 25/1065
+Lintulamminkatu 4/1064
+Saapastie/2592
+Saapastie/2593
+Possilanraitti/1063
+Itämäenkatu/1062
+Ilmailunkatu/2594
+Possilankatu 15/1061
+Possilankatu 18/1060
+Kirkkolahdentie/7621
+Kenkätie/2590
+Kirkkolahdentie/7620
+Koirainmäki/7611
+Sarankulmankatu 14/2588
+Kaustala/7612
+Kaustala/7613
+Ritalankatu/1059
+Kesontie/7614
+Metsolankatu/2585
+Kesontie/7615
+Viholankatu/1057
+Ritalankatu/1058
+Kenkätie 6/2584
+Kirkonkylän koulu/7616
+Sarankulmankatu 14/2587
+Kirkonkylän koulu/7617
+Kukkolankatu/1055
+Viholankuja/1056
+Rukkamäki/2586
+Tapolantie/7618
+Tapolantie/7619
+Kultasepäntie/7653
+Suutarintie/7654
+Kiilto/7651
+Kultasepäntie/7652
+Ilmailunkatu/2583
+Kenkätie 2/2582
+Kiilto/7650
+Peltolammin koulu/2580
+Peltolammin koulu/2579
+Rukkamäentie 15/2577
+Rukkamäentie 15/2578
+Toivionkatu/2570
+Aitolahti kko/5410
+Toivionkatu 3/2572
+Sarankulmankatu 25/2571
+Laalahti/5409
+Laalahti/5408
+Jokivalkamantie/5403
+Jokivalkamantie/5402
+Sorilan koulu/5401
+Sorilan koulu/5400
+Ojatie/2565
+Tervasuontie/5407
+Ojatie/2566
+Tervasuontie/5406
+Hirsimoisio/5405
+Ruotutie 3/2568
+Hirsimoisio/5404
+Hatanpään puistokuja/2569
+Toraperä P/7671
+Ruotutie 8/2561
+Vaihmala liittymä 34 I/7672
+Messukeskus B/2560
+Liityntäparkki I/7670
+Kelho L/7675
+Toraperä E/7676
+Sotavallantie P/7673
+Pikatie I/7674
+Pikatie L/7669
+Toivionkatu/2557
+Koivistonjärventie I/7668
+Valmetinkatu/2558
+Vaihmala liittymä 34 L/7667
+Patamäenkatu 5/2555
+Lippo th/7666
+Hatanpään sairaala/2556
+Nuutisarankatu 35/2553
+Messukeskus A/2554
+Pöytäsarankatu/2551
+Nuutisarankatu 22/2552
+Pöytäsarankatu/2550
+Taavetintie/7660
+Taavetintie/7661
+Höytämö/7662
+Lippo th/7663
+Ahtiala th/7664
+Liityntäparkki L/7665
+Keskuojankatu/2548
+Keskuojanpolku/2549
+Patamäenkatu 12/2544
+Höytämöntie/7656
+Suutarintie/7655
+Patamäenkatu 9/2545
+Paununlahti/7658
+Höytämöntie/7657
+Sarankulmankatu 20/2540
+Sarankulmankatu/2541
+Patamäenkatu 2/2542
+Santalahti/1002
+Santalahti/1003
+Onkiniemi/1000
+Mäntyharju/6559
+Onkiniemi/1001
+Mäntyharju/6558
+Rantatie/1006
+Suoniemi/6557
+Rantatie/1007
+Suoniemi/6556
+Korkeakunnas/6555
+Venesatama/1009
+Pappilankylä th/6564
+Pappilankylä th/6565
+Pimeäjärvi/6562
+Pimeäjärvi/6563
+Vanhakylä/6560
+Hiedanranta/1010
+Vanhakylä/6561
+Iso-Rapuska/6549
+Iso-Rapuska/6548
+Hankala th/6545
+Hankala th/6544
+Kaakkolammi/6547
+Kaakkolammi/6546
+Kaarila/1900
+Sulku/6551
+Parkkuun th/6552
+Parkkuun th/6553
+Korkeakunnas/6554
+Sulku/6550
+Pättinniemi th/5417
+Kuru/6579
+Ruokonen/5415
+Kuru/6578
+Pättinniemi th/5416
+Kurun kirkko/6577
+Ruokosenraitti/5413
+Ruokonen/5414
+Aitolahti kko/5411
+Ruokosenraitti/5412
+Hirviniemi th/5421
+Mekkoholmantie/6582
+Mekkoholmantie/6583
+Hevossaarentie/6580
+Hevossaarentie/6581
+Niemenmaantie/6586
+Niemenmaantie/6587
+Kiveläntie/6584
+Kiveläntie/6585
+Syvänotkontie/6567
+Syvänotkontie/6566
+Kovakivi/6569
+Kovakivi/6568
+Hirviniemi th/5422
+Aitoniemi/5425
+Hautausmaa/6570
+Hautausmaa/6571
+Kuronen/6572
+Kuronen/6573
+Kurun yhtenäiskoulu/6574
+Kurun yhtenäiskoulu/6575
+Kurun kirkko/6576
+Kyrönlahti/6519
+Heponiementie/6517
+Laatokantie/1047
+Kyrönlahti/6518
+Ihaistenkatu/1046
+Parmaniementie/6515
+Välisalonkuja/1045
+Heponiementie/6516
+Possilanraitti/1044
+Kolunlammintie/6513
+Parmaniementie/6514
+Rasinahde/6511
+Kolunlammintie/6512
+Miekkajärvi/6521
+Miekkajärvi/6520
+Teivaalantie 7/1053
+Kukkolankatu/1054
+Teivaalantie 31/1051
+Possilankatu 2-4/1052
+Karhe th/6508
+Karhe th/6509
+Vähäniemenkatu 28/1034
+Vähäniemenkatu 25/1033
+Federleynkatu/1036
+Federleynkatu/1035
+Isoniemenkatu/1038
+Parrukatu/1037
+Listakatu/1039
+Rasinahde/6510
+Listakatu/1040
+Papusenkatu/1041
+Papusenkatu/1042
+Pohtola/1043
+Kaarina Maununtyttären tie 617/8887
+Ohtola/8888
+Ohtola/8889
+Paulaperäntie/6535
+Pohtolankatu 25/1029
+Väkkärämäki/6536
+Lentävänniemi/1028
+Mäkimyllyntie/6533
+Jänislampi/1027
+Paulaperäntie/6534
+Jänislampi/1026
+Parkusjärvi/6539
+Männistönkuja/1025
+Männistönkuja/1024
+Väkkärämäki/6537
+Matilda Niemen katu/1023
+Parkusjärvi/6538
+Matilda Niemen katu/1022
+Pohtolankatu 41/1031
+Vetikonkatu/1032
+Pohtolankatu 22/1030
+Luhalahti th/6543
+Luhalahti th/6542
+Poikelus/6541
+Poikelus/6540
+Klemola/8891
+Klemola/8890
+Killinmäki/8893
+Killinmäki/8892
+Kurunkyläntie/8895
+Kurunkyläntie/8894
+Savo/8897
+Savo/8896
+Pääskyniementie/8898
+Pääskyniementie/8899
+Lielahden koulu/1019
+Hepo-Oja/6522
+Lielahtikeskus D/1016
+Hepo-Oja/6523
+Harjuntausta/1015
+Korpulantie/6524
+Lielahden koulu/1018
+Korpulantie/6525
+Lielahtikeskus C/1017
+Kalakeidas/6526
+Epilänharju/1012
+Kalakeidas/6527
+Hiedanranta/1011
+Kaitala/6528
+Harjuntausta/1014
+Kaitala/6529
+Epilänharju/1013
+Harjuntausta 11/1021
+Penko/6530
+Mäkimyllyntie/6532
+Penko/6531
