@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block content %}
+    {% if user.is_authenticated %}
+        <div class="content-section">
+            <div class="body">
+                <h3>Oman pysäkin aikataulut</h3>
+                <p class="text-muted">{{ oma_pysakki }}, klo {{ kello_nyt }}</p>
+                    {% for aika in seuraavat_linjat %}
+                        <p class="text-muted">{{ pysakki }}</p>
+                        <li class="list-group-item">{{ aika }}</li>
+                    {% endfor %}
+                <h3>Kaikki aikataulut</h3>
+                <ul class="list-group">
+                    {% for aika, linja in oma_aikataulu.items %}
+                        <p class="text-muted">{{ pysakki }}</p>
+                        <li class="list-group-item">{{ aika }} - {{ linja }}</li>
+                    {% endfor %}
+                </ul>
+
+                <h3>Kaikkien pysäkkien aikataulut</h3>
+                {% for pysakki, linjat in aikataulut.items %}
+                    <p class="text-muted">{{ pysakki }}</p>
+                    {% for arvot in linjat.items %}
+                        <li>{{ arvot.0 }} - {{ arvot.1 }}</li>
+                    {% endfor %}
+                {% endfor %}
+            </div>
+        </div>
+        <div class="content-section">
+
+            <h3>Julkaisut</h3>
+            {% for post in posts %}
+                <p class='text-muted'>
+                {{ post.name }}
+                <li>{{ post.text }}</li>
+                </p>
+            {% endfor %}
+            
+        </div>
+    {% else %}
+        <div class="content-section">
+            <div class="body">
+                <h3>Oman pysäkin aikataulut</h3>
+                <p class="text-muted">
+                    <a href="{% url 'login' %}">Kirjaudu sisään</a> nähdäksesi oman 
+                    pysäkkisi tiedot
+                </p>
+            </div>
+        </div>
+    {% endif %}
+{% endblock %}
