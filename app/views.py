@@ -4,36 +4,61 @@ from .models import Profile, Stop
 from django.contrib import messages
 from django.contrib.auth.models import User
 from django.contrib.auth.decorators import login_required
-from .forms import UserRegisterForm, UserUpdateForm, ProfileUpdateForm
-from app.static.app.sampledata import aikataulut
-import datetime
+from .forms import UserRegisterForm, UserUpdateForm, ProfileUpdateForm, StopUpdateForm
+import datetime, json, requests
 
 # Tkl API
 # user token: aleksilehmus
 # token passphrase: ohsiha123
 
 def HomePageView(request):
-        oma_pysakki = request.user.profile.pysakki
-        kello_nyt_str = str(datetime.datetime.now().hour) + str(datetime.datetime.now().minute)
-        kello_nyt = int(kello_nyt_str)
-        seuraavat_linjat = []
-        oma_aikataulu = {}
-        if oma_pysakki in aikataulut:
-                oma_aikataulu = aikataulut[oma_pysakki]
-                for aika in oma_aikataulu:
-                        if int(aika) > kello_nyt:
-                                seuraavat_linjat.append(aika+" - "+oma_aikataulu[aika])
-                        if len(seuraavat_linjat) == 5:
-                                break
-        context = {
-                'aikataulut': aikataulut,
-                'oma_pysakki': oma_pysakki,
-                'oma_aikataulu': oma_aikataulu,
-                'kello_nyt': kello_nyt,
-                'seuraavat_linjat': seuraavat_linjat
-        }
+        if request.user.is_authenticated:
+                min = str(datetime.datetime.now().minute)
+                h = str(datetime.datetime.now().hour)
+                if len(min) == 1:
+                        min = "0"+min
+                kello_nyt = f'{h}{min}'
+                omat_pysakit = [
+                        request.user.profile.pysakki1,
+                        request.user.profile.pysakki2,
+                        request.user.profile.pysakki3
+                ]
+                p_v = request.user.profile.pysakkivalinta
+                oma_pysakki = omat_pysakit[p_v]
+                seuraavat_linjat = []
 
-        return render(request, 'index.html', context)
+                url = f'http://api.publictransport.tampere.fi/prod/?user=aleksilehmus&pass=ohsiha123&code={oma_pysakki}&request=stop'
+                r = requests.get(url)
+                dep = r.json()[0]["departures"]
+
+                for line in dep:
+                        odotus = int(line["time"]) - int(kello_nyt)
+                        linja = f'{line["code"]}: {line["time"]} ->'
+                        seuraavat_linjat.append([linja, odotus])
+
+                if request.method == 'POST':
+                        s_form = StopUpdateForm(request.POST, instance=request.user.profile)
+                        if s_form.is_valid():
+                                p_valinta = s_form.cleaned_data.get('pysakkivalinta')
+                                oma_pysakki = omat_pysakit[p_valinta]
+                                s_form.save()
+                                messages.success(request, f'{oma_pysakki} vaihdettu pysäkiksi')
+                                return redirect('kotisivu')
+                else:
+                        s_form = StopUpdateForm()
+
+                context = {
+                        'omat_pysakit': omat_pysakit,
+                        'oma_pysakki': oma_pysakki,
+                        'kello_nyt': kello_nyt,
+                        'seuraavat_linjat': seuraavat_linjat,
+                        's_form': s_form,
+                        'p_v': p_v
+                }
+
+                return render(request, 'index.html', context)
+        else:
+                return render(request, 'index.html')
 
 def RegisterView(request):
         if request.method == 'POST':
@@ -74,7 +99,7 @@ def ProfileView(request):
                 u_form = UserUpdateForm(request.POST, instance=request.user)
                 p_form = ProfileUpdateForm(request.POST, instance=request.user.profile)
                 if u_form.is_valid() and p_form.is_valid():
-                        pysakkinimi = p_form.cleaned_data.get('pysakki')
+                        pysakkinimi = p_form.cleaned_data.get('pysakki1')
                         if len(Stop.objects.filter(name=pysakkinimi)) == 0:
                                 messages.error(request, f'Pysäkkiä {pysakkinimi} ei ole olemassa')
                                 return redirect('profile')

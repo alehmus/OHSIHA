@@ -20,4 +20,9 @@ class UserUpdateForm(forms.ModelForm):
 class ProfileUpdateForm(forms.ModelForm):
     class Meta:
         model = Profile
-        fields = ['pysakki']
+        fields = ['pysakki1', 'pysakki2', 'pysakki3']
+
+class StopUpdateForm(forms.ModelForm):
+    class Meta:
+        model = Profile
+        fields = ['pysakkivalinta']

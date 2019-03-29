@@ -1,6 +1,6 @@
 import json, requests
 
-url = "http://api.publictransport.tampere.fi/prod/?user=aleksilehmus&pass=ohsiha123&code=0011&request=stop"
+url = f'http://api.publictransport.tampere.fi/prod/?user=aleksilehmus&pass=ohsiha123&code=0011&request=stop'
 #xml_url = '/Users/aleksilehmus/Documents/Koulu/TLO/OHSIHA/harkka/projekti/app/static/app/pysakkidata.xml'
 #temp_url = '/Users/aleksilehmus/Documents/Koulu/TLO/OHSIHA/harkka/projekti/app/static/app/stopdata.txt'
 

@@ -1,29 +1,22 @@
 {% extends "base.html" %}
+{% load crispy_forms_tags %}
 
 {% block content %}
     {% if user.is_authenticated %}
         <div class="content-section">
             <div class="body">
-                <h3>Oman pysäkin aikataulut</h3>
+                <h3>Oman pysäkin aikataulut {{ p_v }}</h3>
                 <p class="text-muted">{{ oma_pysakki }}, klo {{ kello_nyt }}</p>
-                    {% for aika in seuraavat_linjat %}
-                        <p class="text-muted">{{ pysakki }}</p>
-                        <li class="list-group-item">{{ aika }}</li>
-                    {% endfor %}
-                <h3>Kaikki aikataulut</h3>
-                <ul class="list-group">
-                    {% for aika, linja in oma_aikataulu.items %}
-                        <p class="text-muted">{{ pysakki }}</p>
-                        <li class="list-group-item">{{ aika }} - {{ linja }}</li>
-                    {% endfor %}
-                </ul>
-
-                <h3>Kaikkien pysäkkien aikataulut</h3>
-                {% for pysakki, linjat in aikataulut.items %}
-                    <p class="text-muted">{{ pysakki }}</p>
-                    {% for arvot in linjat.items %}
-                        <li>{{ arvot.0 }} - {{ arvot.1 }}</li>
-                    {% endfor %}
+                {% for linja in seuraavat_linjat %}
+                    <li class="list-group-item">
+                        {% if linja.1 < 5 %}
+                            {{ linja.0 }} <font color ="red">{{ linja.1 }} min</font>
+                        {% elif linja.1 < 10 %}
+                            {{ linja.0 }} <font color ="orange">{{ linja.1 }} min</font>
+                        {% else %}
+                            {{ linja.0 }} <font color ="green">{{ linja.1 }} min</font>
+                        {% endif %}
+                    </li>
                 {% endfor %}
             </div>
         </div>
@@ -38,4 +31,38 @@
             </div>
         </div>
     {% endif %}
+{% endblock %}
+
+{% block sidebar %}
+    {% if user.is_authenticated %}
+        <div class="col-md-4">
+        <div class="content-section">
+            <h3>Tervetuloa!</h3>
+            <p class='text-muted'>Valitse näytettävä pysäkki. 
+                Voit päivittää pysäkkivalinnat 
+                <a href="{% url 'profile' %}">omista tiedoistasi</a>.
+                <div class="radio">
+                    <label><input type="radio" name="optradio" checked>{{ omat_pysakit.0 }}</label>
+                </div>
+                <div class="radio">
+                    <label><input type="radio" name="optradio">{{ omat_pysakit.1 }}</label>
+                </div>
+                <div class="radio">
+                    <label><input type="radio" name="optradio">{{ omat_pysakit.2 }}</label>
+                </div>
+                <button class="btn btn-outline-info" type="submit">Päivitä</button>
+            </p>
+            <form method="POST">
+                {% csrf_token %}
+                <fieldset class="form-group">
+                    <legend class="border-bottom mb-4">Pysäkki?</legend>
+                    {{ s_form }}
+                </fieldset>
+                <div class="form-group">
+                    <button class="btn btn-outline-info" type="submit">Päivitä</button>
+                </div>
+            </form>
+        </div>
+        </div>
+    {% endif%}
 {% endblock %}
