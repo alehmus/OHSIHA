@@ -23,10 +23,12 @@ def HomePageView(request):
                         request.user.profile.pysakki2,
                         request.user.profile.pysakki3
                 ]
+                oma_linja = request.user.profile.linja
                 p_v = request.user.profile.pysakkivalinta
                 oma_pysakki = omat_pysakit[p_v]
+                
                 seuraavat_linjat = []
-
+                seuraava_lähtö = []
                 url = f'http://api.publictransport.tampere.fi/prod/?user=aleksilehmus&pass=ohsiha123&code={oma_pysakki}&request=stop'
                 r = requests.get(url)
                 dep = r.json()[0]["departures"]
@@ -35,24 +37,39 @@ def HomePageView(request):
                         odotus = int(line["time"]) - int(kello_nyt)
                         linja = f'{line["code"]}: {line["time"]} ->'
                         seuraavat_linjat.append([linja, odotus])
+                        if len(seuraava_lähtö) == 0 and oma_linja == line["code"]:
+                                seuraava_lähtö = [line["code"], odotus]
+                if len(seuraava_lähtö) == 0:
+                        seuraava_lähtö = ['ei lähtöjä', 0]
 
                 if request.method == 'POST':
+                        p_form = ProfileUpdateForm(request.POST, instance=request.user.profile)
                         s_form = StopUpdateForm(request.POST, instance=request.user.profile)
-                        if s_form.is_valid():
+                        if s_form.is_valid() and p_form.is_valid():
                                 p_valinta = s_form.cleaned_data.get('pysakkivalinta')
                                 oma_pysakki = omat_pysakit[p_valinta]
+                                pysakkinimi = p_form.cleaned_data.get('pysakki1')
+                                if len(Stop.objects.filter(name=pysakkinimi)) == 0:
+                                        messages.error(request, f'Pysäkkiä {pysakkinimi} ei ole olemassa')
+                                        return redirect('profile')
                                 s_form.save()
+                                p_form.save()
                                 messages.success(request, f'{oma_pysakki} vaihdettu pysäkiksi')
                                 return redirect('kotisivu')
+                                
                 else:
                         s_form = StopUpdateForm()
+                        p_form = ProfileUpdateForm(instance=request.user.profile)
+
 
                 context = {
                         'omat_pysakit': omat_pysakit,
                         'oma_pysakki': oma_pysakki,
                         'kello_nyt': kello_nyt,
                         'seuraavat_linjat': seuraavat_linjat,
+                        'seuraava_lähtö': seuraava_lähtö,
                         's_form': s_form,
+                        'p_form': p_form,
                         'p_v': p_v
                 }
 

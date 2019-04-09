@@ -12,15 +12,14 @@ for ele in dep:
     s = ele["code"] + ": " + ele["time"]
     print (s)
 
-#f = open(xml_url, "r", encoding='utf-8-sig')
-#temp = open(temp_url, "w", encoding='utf-8-sig')
+f = open(xml_url, "r", encoding='utf-8-sig')
+temp = open(temp_url, "w", encoding='utf-8-sig')
 
-#i = 0
-#pysakit = []
+pysakit = []
 
-#for line in f:
-#    osat = line.split("'")
-#    pysakki = osat[3].replace("&#228;", "ä")
-#    pysakki = pysakki.replace("&#246;", "ö")
-#    pysakki_koodi = osat[1]
-#    temp.write(pysakki+"/"+pysakki_koodi+"\n")
+for line in f:
+    osat = line.split("'")
+    pysakki = osat[3].replace("&#228;", "ä")
+    pysakki = pysakki.replace("&#246;", "ö")
+    pysakki_koodi = osat[1]
+    temp.write(pysakki+"/"+pysakki_koodi+"\n")
