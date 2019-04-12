@@ -44,21 +44,16 @@ def HomePageView(request):
 
                 if request.method == 'POST':
                         p_form = ProfileUpdateForm(request.POST, instance=request.user.profile)
-                        s_form = StopUpdateForm(request.POST, instance=request.user.profile)
-                        if s_form.is_valid() and p_form.is_valid():
-                                p_valinta = s_form.cleaned_data.get('pysakkivalinta')
-                                oma_pysakki = omat_pysakit[p_valinta]
+                        if p_form.is_valid():
                                 pysakkinimi = p_form.cleaned_data.get('pysakki1')
                                 if len(Stop.objects.filter(name=pysakkinimi)) == 0:
                                         messages.error(request, f'Pysäkkiä {pysakkinimi} ei ole olemassa')
                                         return redirect('profile')
-                                s_form.save()
                                 p_form.save()
-                                messages.success(request, f'{oma_pysakki} vaihdettu pysäkiksi')
+                                messages.success(request, f'Tiedot päivitetty!')
                                 return redirect('kotisivu')
                                 
                 else:
-                        s_form = StopUpdateForm()
                         p_form = ProfileUpdateForm(instance=request.user.profile)
 
 
@@ -68,7 +63,6 @@ def HomePageView(request):
                         'kello_nyt': kello_nyt,
                         'seuraavat_linjat': seuraavat_linjat,
                         'seuraava_lähtö': seuraava_lähtö,
-                        's_form': s_form,
                         'p_form': p_form,
                         'p_v': p_v
                 }
