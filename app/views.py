@@ -4,7 +4,7 @@ from .models import Profile, Stop
 from django.contrib import messages
 from django.contrib.auth.models import User
 from django.contrib.auth.decorators import login_required
-from .forms import UserRegisterForm, UserUpdateForm, ProfileUpdateForm, StopUpdateForm
+from .forms import UserRegisterForm, UserUpdateForm, ProfileUpdateForm
 import datetime, json, requests
 
 # Tkl API
@@ -17,15 +17,11 @@ def HomePageView(request):
                 h = str(datetime.datetime.now().hour)
                 if len(min) == 1:
                         min = "0"+min
-                kello_nyt = f'{h}{min}'
-                omat_pysakit = [
-                        request.user.profile.pysakki1,
-                        request.user.profile.pysakki2,
-                        request.user.profile.pysakki3
-                ]
+                if len(h) == 1:
+                        h = "0"+h
+                kello_nyt = f'{h}:{min}'
+                oma_pysakki = request.user.profile.pysakki
                 oma_linja = request.user.profile.linja
-                p_v = request.user.profile.pysakkivalinta
-                oma_pysakki = omat_pysakit[p_v]
                 
                 seuraavat_linjat = []
                 seuraava_lähtö = []
@@ -34,8 +30,13 @@ def HomePageView(request):
                 dep = r.json()[0]["departures"]
 
                 for line in dep:
-                        odotus = int(line["time"]) - int(kello_nyt)
-                        linja = f'{line["code"]}: {line["time"]} ->'
+                        lähtö_hm = line["time"]
+                        if len(lähtö_hm) == 3:
+                                lähtö_hm = "0" + lähtö_hm
+                        lähtö_min = int(lähtö_hm[0:2])*60 + int(lähtö_hm[2:4])
+                        kello_min = int(kello_nyt[0:2])*60 + int(kello_nyt[3:5])
+                        odotus = lähtö_min - kello_min
+                        linja = f'{line["code"]}: {lähtö_hm[0:2]}:{lähtö_hm[2:4]} ->'
                         seuraavat_linjat.append([linja, odotus])
                         if len(seuraava_lähtö) == 0 and oma_linja == line["code"]:
                                 seuraava_lähtö = [line["code"], odotus]
@@ -45,10 +46,10 @@ def HomePageView(request):
                 if request.method == 'POST':
                         p_form = ProfileUpdateForm(request.POST, instance=request.user.profile)
                         if p_form.is_valid():
-                                pysakkinimi = p_form.cleaned_data.get('pysakki1')
+                                pysakkinimi = p_form.cleaned_data.get('pysakki')
                                 if len(Stop.objects.filter(name=pysakkinimi)) == 0:
                                         messages.error(request, f'Pysäkkiä {pysakkinimi} ei ole olemassa')
-                                        return redirect('profile')
+                                        return redirect('kotisivu')
                                 p_form.save()
                                 messages.success(request, f'Tiedot päivitetty!')
                                 return redirect('kotisivu')
@@ -58,13 +59,11 @@ def HomePageView(request):
 
 
                 context = {
-                        'omat_pysakit': omat_pysakit,
                         'oma_pysakki': oma_pysakki,
                         'kello_nyt': kello_nyt,
                         'seuraavat_linjat': seuraavat_linjat,
                         'seuraava_lähtö': seuraava_lähtö,
                         'p_form': p_form,
-                        'p_v': p_v
                 }
 
                 return render(request, 'index.html', context)
@@ -110,7 +109,7 @@ def ProfileView(request):
                 u_form = UserUpdateForm(request.POST, instance=request.user)
                 p_form = ProfileUpdateForm(request.POST, instance=request.user.profile)
                 if u_form.is_valid() and p_form.is_valid():
-                        pysakkinimi = p_form.cleaned_data.get('pysakki1')
+                        pysakkinimi = p_form.cleaned_data.get('pysakki')
                         if len(Stop.objects.filter(name=pysakkinimi)) == 0:
                                 messages.error(request, f'Pysäkkiä {pysakkinimi} ei ole olemassa')
                                 return redirect('profile')

@@ -15,10 +15,7 @@ class Profile(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
     # Tähän profiilin parametrejä
     linja = models.CharField(max_length=5, default='3')
-    pysakki1 = models.CharField(max_length=50, default='Itsenäisyydenkatu 10')
-    pysakki2 = models.CharField(max_length=50, default='TTY')
-    pysakki3 = models.CharField(max_length=50, default='Ahvenisjärvi')
-    pysakkivalinta = models.IntegerField(default=0, validators=[MinValueValidator(0), MaxValueValidator(2)])
+    pysakki = models.CharField(max_length=50, default='Itsenäisyydenkatu 10')
 
     def __str__(self):
         return self.user.username

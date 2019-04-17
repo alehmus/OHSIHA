@@ -25,7 +25,10 @@ SECRET_KEY = 'jrb#1zcxv-zsv=&lv5t22opwu%ki_y46bk_4$9!+xmbmlhbem@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ohsiha-harkka.herokuapp.com']
+ALLOWED_HOSTS = [
+    'ohsiha-harkka.herokuapp.com',
+    '127.0.0.1'
+]
 
 # Application definition
 

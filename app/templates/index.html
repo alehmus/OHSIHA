@@ -4,7 +4,7 @@
 {% block content %}
     {% if user.is_authenticated %}
         <div class="content-section">
-            <h3>Omien linjojen seuraavat lähdöt</h3>
+            <h3>Oman linjan seuraavat lähdöt</h3>
             <div id="container" class="content-section"></div>
             <script src="https://code.highcharts.com/highcharts.src.js"></script>
             <script src="https://code.highcharts.com/highcharts-more.js"></script>
@@ -23,7 +23,7 @@
                 },
 
                 title: {
-                    text: 'Aikaa seuraavaan bussiin '+linja_nimi
+                    text: linja_nimi
                 },
 
                 pane: {
