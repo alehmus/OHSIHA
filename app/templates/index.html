@@ -2,13 +2,17 @@
 {% load crispy_forms_tags %}
 
 {% block content %}
+    <!-- Näytetään sisältö vain kirjautuneille -->
     {% if user.is_authenticated %}
         <div class="content-section">
             <h3>Oman linjan seuraavat lähdöt</h3>
             <div id="container" class="content-section"></div>
+
+            <!-- Highcharts-mittari seuraavan bussin minuuttien näyttämiseen -->
             <script src="https://code.highcharts.com/highcharts.src.js"></script>
             <script src="https://code.highcharts.com/highcharts-more.js"></script>
             <script>
+                // Haetaan muuttujiin tarvittavat käyttäjäkohtaiset tiedot
                 linja_nimi = "{{ seuraava_lähtö.0 }}";
                 linja_jaljella = parseInt("{{ seuraava_lähtö.1 }}");
 
@@ -99,6 +103,7 @@
 
                 series: [{
                     name: 'Speed',
+                    // Annetaan näytettävä data
                     data: [linja_jaljella],
                     tooltip: {
                         valueSuffix: ' min'
@@ -110,10 +115,12 @@
         </div>
         <div class="content-section">
             <div class="body">
+                <!-- Listataan oman pysäkin seuraavat lähdöt -->
                 <h3>Oman pysäkin seuraavat lähdöt</h3>
                 <p class="text-muted">{{ oma_pysakki }}, klo {{ kello_nyt }}</p>
                 {% for linja in seuraavat_linjat %}
                     <li class="list-group-item">
+                        <!-- Värikoodataan ajat kiireellisyyden mukaan -->
                         {% if linja.1 < 5 %}
                             {{ linja.0 }} <font color ="red">{{ linja.1 }} min</font>
                         {% elif linja.1 < 10 %}
@@ -126,6 +133,7 @@
             </div>
         </div>
     {% else %}
+        <!-- Näytettävä sisältö, jos ei kirjautunut -->
         <div class="content-section">
             <div class="body">
                 <h3>Oman pysäkin aikataulut</h3>
@@ -141,6 +149,7 @@
 
 {% block sidebar %}
     {% if user.is_authenticated %}
+        <!-- Sivupalkissa mahdollisuus nähdä ja muokata aktiiviset pysäkki- ja linjatiedot-->
         <div class="col-md-4">
         <div class="content-section">
             <h3>Tervetuloa!</h3>
@@ -153,6 +162,7 @@
                     <legend class="border-bottom mb-4">Omat tiedot</legend>
                     {{ p_form|crispy }}
                 </fieldset>
+                <!-- Lähetetään muokatut tiedot viewsille -->
                 <div class="form-group">
                     <button class="btn btn-outline-info" type="submit">Päivitä</button>
                 </div>

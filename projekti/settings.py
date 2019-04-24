@@ -25,6 +25,7 @@ SECRET_KEY = 'jrb#1zcxv-zsv=&lv5t22opwu%ki_y46bk_4$9!+xmbmlhbem@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+# Annetaan lupa Herokulle ja localhostille käyttää ohjelmaa
 ALLOWED_HOSTS = [
     'ohsiha-harkka.herokuapp.com',
     '127.0.0.1'
@@ -40,7 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'crispy_forms',
-    'app.apps.AppConfig',
+    'app.apps.AppConfig'
 ]
 
 MIDDLEWARE = [
@@ -51,7 +52,6 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'whitenoise.middleware.WhiteNoiseMiddleware'
 ]
 
 ROOT_URLCONF = 'projekti.urls'
@@ -124,10 +124,6 @@ USE_TZ = True
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATIC_URL = '/static/'
-
-STATICFILES_DIRS = (
-    os.path.join(BASE_DIR, 'static'),
-)
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
 

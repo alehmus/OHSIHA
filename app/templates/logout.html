@@ -1,8 +1,10 @@
 {% extends "base.html" %}
 
 {% block content %}
+    <!-- Näkymä uloskirjautumiselle -->
     <h2>You have been loggen out</h2>
     <div class="border-top" pt-3">
+        <!-- Mahdollisuus kirjautua uudestaan -->
         <small class="text-muted">
             <a href="{% url 'login' %}">Log in Again?</a>
         </small>
